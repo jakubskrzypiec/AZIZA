@@ -2114,7 +2114,7 @@ details p {
 
 /* === FINAL HERO + OFFER POLISH === */
 .hero-bg {
-  background-image: url('hero-purple.webp');
+  background-image: url('hero.png');
   background-position: center center;
   background-size: cover;
 }
@@ -2202,5 +2202,81 @@ details p {
     width: auto;
     margin: 0;
     padding: 22px 20px 26px 66px;
+  }
+}
+
+
+/* ===== FINAL FIX: hero + offer open panel ===== */
+.hero-bg {
+  background-image: url('hero.png') !important;
+  background-position: 59% center;
+  background-size: cover;
+}
+
+.offer-item .offer-no,
+.offer-item .offer-label {
+  transform: none !important;
+}
+
+.offer-item[open] summary .offer-no,
+.offer-item[open] summary .offer-label {
+  transform: none !important;
+}
+
+.offer-item[open] .offer-panel {
+  position: relative;
+  isolation: isolate;
+  padding: 28px 32px 32px;
+  background-color: #ffffff;
+  background-image:
+    linear-gradient(rgba(78,67,74,.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(78,67,74,.055) 1px, transparent 1px);
+  background-size: 28px 28px;
+  border-top: 1px solid rgba(17,17,17,.08);
+}
+
+.offer-item[open] .offer-panel::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(
+    90deg,
+    rgba(255,255,255,.98) 0%,
+    rgba(255,255,255,.91) 48%,
+    rgba(248,246,241,.74) 100%
+  );
+  pointer-events: none;
+}
+
+.offer-item[open] .offer-panel-copy {
+  grid-column: 2;
+  max-width: 760px;
+  margin-left: 0;
+  padding: 10px 0 4px;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  backdrop-filter: none;
+  box-shadow: none;
+}
+
+.offer-item[open] .offer-panel-copy p {
+  max-width: 650px;
+  color: rgba(17,17,17,.76);
+}
+
+@media (max-width: 760px) {
+  .hero-bg {
+    background-position: 66% center;
+  }
+
+  .offer-item[open] .offer-panel {
+    padding: 22px 20px 24px;
+    background-size: 24px 24px;
+  }
+
+  .offer-item[open] .offer-panel-copy {
+    grid-column: 2;
   }
 }
