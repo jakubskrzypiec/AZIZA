@@ -2280,3 +2280,28 @@ details p {
     grid-column: 2;
   }
 }
+
+
+/* ===== USER FINAL TWEAKS: purple hero + white offer headings ===== */
+.hero-bg {
+  background-image: url('hero-purple.webp') !important;
+  background-position: center center !important;
+  background-size: cover !important;
+}
+
+.hero-shade {
+  background:
+    linear-gradient(90deg, rgba(78,67,74,.44) 0%, rgba(78,67,74,.24) 34%, rgba(78,67,74,.04) 62%, rgba(78,67,74,.08) 100%),
+    linear-gradient(0deg, rgba(78,67,74,.28) 0%, rgba(78,67,74,.08) 42%, rgba(78,67,74,0) 72%);
+}
+
+.offer-item summary .offer-title h3 {
+  color: #ffffff;
+  text-shadow: 0 2px 18px rgba(78,67,74,.34);
+}
+
+@media (max-width: 760px) {
+  .hero-bg {
+    background-position: 54% center !important;
+  }
+}
