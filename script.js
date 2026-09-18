@@ -40,8 +40,8 @@ if (!reducedMotion && 'IntersectionObserver' in window) {
       instance.unobserve(entry.target);
     });
   }, {
-    threshold: 0.1,
-    rootMargin: '0px 0px -35px'
+    threshold: 0.08,
+    rootMargin: '0px 0px -30px'
   });
 
   items.forEach((item) => observer.observe(item));
