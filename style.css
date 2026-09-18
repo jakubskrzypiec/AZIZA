@@ -1370,3 +1370,342 @@ details p {
     align-items: start;
   }
 }
+
+
+/* --- Offer backgrounds: reuse existing AZIZA imagery --- */
+.offer-row {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  background: transparent;
+}
+
+.offer-row::before {
+  content: "";
+  position: absolute;
+  inset: -10px;
+  z-index: -2;
+  background-size: cover;
+  background-position: center;
+  filter: saturate(.72) contrast(.92);
+  transform: scale(1.025);
+  transition: transform .7s ease, filter .7s ease;
+}
+
+.offer-row::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(90deg,
+      rgba(248,246,241,.95) 0%,
+      rgba(248,246,241,.90) 38%,
+      rgba(168,154,147,.68) 70%,
+      rgba(78,67,74,.56) 100%);
+}
+
+.offer-bg-notatnik::before {
+  background-image: url('przerywnik-notatnik.png');
+  background-position: center 50%;
+}
+
+.offer-bg-plan::before {
+  background-image: url('przerywnik-plan.png');
+  background-position: center 48%;
+}
+
+.offer-bg-wide::before {
+  background-image: url('przerywnik-wide.png');
+  background-position: center 53%;
+}
+
+.offer-row:hover::before {
+  transform: scale(1.055);
+  filter: saturate(.78) contrast(.96);
+}
+
+.offer-row-pebble,
+.offer-row-truffle,
+.offer-row-slate {
+  background: transparent;
+}
+
+.offer-row > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* --- Projects: editorial board instead of card grid --- */
+.projects {
+  position: relative;
+  overflow: hidden;
+  background: var(--cotton);
+}
+
+.projects-word {
+  position: absolute;
+  right: -28px;
+  bottom: 18px;
+  z-index: 0;
+  font-family: var(--display);
+  font-size: clamp(130px, 18vw, 300px);
+  line-height: .8;
+  letter-spacing: -.08em;
+  color: rgba(78,67,74,.055);
+  pointer-events: none;
+}
+
+.projects-canvas {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0,1fr));
+  grid-template-rows: auto auto;
+  gap: 28px 24px;
+  align-items: start;
+  padding-bottom: 34px;
+}
+
+.project-card-a {
+  grid-column: 1 / span 8;
+  grid-row: 1;
+}
+
+.project-card-b {
+  grid-column: 9 / span 4;
+  grid-row: 1 / span 2;
+  padding-top: 72px;
+}
+
+.project-card-c {
+  grid-column: 2 / span 7;
+  grid-row: 2;
+  margin-top: -58px;
+  z-index: 3;
+}
+
+.project-card-a .project-image { aspect-ratio: 16 / 9; }
+.project-card-b .project-image { aspect-ratio: 4 / 5; }
+.project-card-c .project-image { aspect-ratio: 16 / 8; }
+
+.projects-side-label {
+  grid-column: 10 / span 3;
+  grid-row: 2;
+  align-self: end;
+  min-height: 220px;
+  padding: 26px 0 0 28px;
+  border-left: 1px solid rgba(17,17,17,.16);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.projects-side-label span {
+  font-size: 9px;
+  letter-spacing: .18em;
+}
+
+.projects-side-label strong {
+  font-family: var(--display);
+  font-size: 82px;
+  line-height: .86;
+  font-weight: 400;
+  color: var(--slate);
+}
+
+.project-image {
+  border-radius: 22px;
+}
+
+.project-card-c .project-image {
+  box-shadow: 0 20px 46px rgba(78,67,74,.10);
+}
+
+/* --- Social: taller, richer, violet architectural grid accents --- */
+.social {
+  position: relative;
+  overflow: hidden;
+  background: var(--cotton);
+  padding-top: 128px;
+  padding-bottom: 128px;
+}
+
+.social-grid-bg {
+  position: absolute;
+  inset: 0;
+  background: transparent;
+  pointer-events: none;
+}
+
+.social-grid-bg::before,
+.social-grid-bg::after {
+  content: "";
+  position: absolute;
+  width: 330px;
+  height: 250px;
+  background-image:
+    linear-gradient(rgba(78,67,74,.18) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(78,67,74,.18) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.social-grid-bg::before {
+  left: -24px;
+  bottom: -34px;
+  -webkit-mask-image: linear-gradient(45deg, #000 10%, transparent 84%);
+  mask-image: linear-gradient(45deg, #000 10%, transparent 84%);
+}
+
+.social-grid-bg::after {
+  right: -24px;
+  top: -34px;
+  -webkit-mask-image: linear-gradient(225deg, #000 10%, transparent 84%);
+  mask-image: linear-gradient(225deg, #000 10%, transparent 84%);
+}
+
+.social-panel {
+  min-height: 430px;
+  padding: clamp(68px, 6vw, 98px);
+  grid-template-columns: .9fr 1.1fr;
+  gap: 7vw;
+}
+
+.social-intro h2 {
+  max-width: 590px;
+}
+
+.social-intro > p:not(.eyebrow) {
+  max-width: 540px;
+}
+
+.social-meta {
+  margin-top: 42px;
+  padding-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  border-top: 1px solid rgba(78,67,74,.14);
+}
+
+.social-meta span {
+  font-size: 9px;
+  letter-spacing: .16em;
+  color: var(--slate);
+}
+
+.social-links a {
+  min-height: 104px;
+}
+
+.social-note {
+  min-height: 95px;
+  padding-top: 18px;
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.social-note > span {
+  font-family: var(--display);
+  font-size: 24px;
+  color: var(--slate);
+}
+
+.social-note p {
+  max-width: 460px;
+  margin: 0;
+  color: rgba(17,17,17,.58);
+  font-size: 12px;
+}
+
+@media (max-width: 1050px) {
+  .project-card-a {
+    grid-column: 1 / span 7;
+  }
+
+  .project-card-b {
+    grid-column: 8 / span 5;
+  }
+
+  .project-card-c {
+    grid-column: 2 / span 7;
+  }
+
+  .projects-side-label {
+    grid-column: 9 / span 4;
+  }
+
+  .social-panel {
+    grid-template-columns: 1fr;
+    min-height: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .offer-row::after {
+    background:
+      linear-gradient(90deg,
+        rgba(248,246,241,.96) 0%,
+        rgba(248,246,241,.90) 65%,
+        rgba(78,67,74,.38) 100%);
+  }
+
+  .projects-canvas {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 34px;
+  }
+
+  .project-card-a,
+  .project-card-b,
+  .project-card-c,
+  .projects-side-label {
+    grid-column: 1;
+    grid-row: auto;
+    margin: 0;
+    padding-top: 0;
+  }
+
+  .project-card-a .project-image,
+  .project-card-b .project-image,
+  .project-card-c .project-image {
+    aspect-ratio: 4 / 5;
+  }
+
+  .projects-side-label {
+    min-height: 0;
+    padding: 24px 0 0 20px;
+  }
+
+  .projects-side-label strong {
+    font-size: 64px;
+  }
+
+  .social {
+    padding-top: 86px;
+    padding-bottom: 86px;
+  }
+
+  .social-panel {
+    min-height: 0;
+    padding: 42px 24px;
+  }
+
+  .social-grid-bg::before,
+  .social-grid-bg::after {
+    width: 190px;
+    height: 150px;
+    background-size: 26px 26px;
+  }
+
+  .social-meta {
+    margin-top: 30px;
+  }
+
+  .social-note {
+    grid-template-columns: 54px 1fr;
+  }
+}
