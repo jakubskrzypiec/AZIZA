@@ -1,8 +1,16 @@
-const root = document.documentElement;
 const body = document.body;
+const header = document.querySelector('[data-header]');
 const menuButton = document.querySelector('.menu-toggle');
 const nav = document.querySelector('.site-nav');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const updateHeader = () => {
+  if (!header) return;
+  header.classList.toggle('is-scrolled', window.scrollY > 24);
+};
+
+updateHeader();
+window.addEventListener('scroll', updateHeader, { passive: true });
 
 if (menuButton && nav) {
   menuButton.addEventListener('click', () => {
@@ -33,8 +41,8 @@ if (!reducedMotion && 'IntersectionObserver' in window) {
       instance.unobserve(entry.target);
     });
   }, {
-    threshold: 0.12,
-    rootMargin: '0px 0px -40px'
+    threshold: 0.1,
+    rootMargin: '0px 0px -32px'
   });
 
   revealItems.forEach((item) => observer.observe(item));
@@ -42,9 +50,7 @@ if (!reducedMotion && 'IntersectionObserver' in window) {
   revealItems.forEach((item) => item.classList.add('is-visible'));
 }
 
-const accordions = document.querySelectorAll('.accordion details');
-
-accordions.forEach((detail) => {
+document.querySelectorAll('.accordion details').forEach((detail) => {
   detail.addEventListener('toggle', () => {
     if (!detail.open) return;
 
@@ -67,9 +73,9 @@ if (parallaxImage && !reducedMotion) {
     const rect = section.getBoundingClientRect();
     const viewport = window.innerHeight;
     const progress = (viewport - rect.top) / (viewport + rect.height);
-    const y = (progress - 0.5) * 18;
+    const y = (progress - 0.5) * 14;
 
-    parallaxImage.style.transform = `scale(1.06) translate3d(0, ${y}px, 0)`;
+    parallaxImage.style.transform = `scale(1.055) translate3d(0, ${y}px, 0)`;
     ticking = false;
   };
 
