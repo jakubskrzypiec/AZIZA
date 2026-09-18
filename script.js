@@ -61,3 +61,13 @@ contactForm?.addEventListener('submit', (event) => {
 
   window.location.href = `mailto:izabela.suwiczak@aziza-suwiczak.pl?subject=${subject}&body=${body}`;
 });
+
+
+const offerItems = [...document.querySelectorAll('.offer-item')];
+
+offerItems.forEach(item => item.addEventListener('toggle', () => {
+  if (!item.open) return;
+  offerItems.forEach(other => {
+    if (other !== item) other.open = false;
+  });
+}));
