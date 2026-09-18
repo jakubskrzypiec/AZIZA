@@ -3,7 +3,8 @@
   --pebble: #A89A93;
   --truffle: #7A6D64;
   --slate: #4E434A;
-  --line: rgba(78,67,74,.18);
+  --line: rgba(17,17,17,.14);
+  --ink: #111111;
   --display: "Tenor Sans", Arial, sans-serif;
   --sans: "Questrial", Arial, sans-serif;
 }
@@ -14,7 +15,7 @@ html { scroll-behavior: smooth; }
 body {
   margin: 0;
   background: var(--cotton);
-  color: var(--slate);
+  color: var(--ink);
   font-family: var(--sans);
   font-size: 15px;
   font-weight: 400;
@@ -55,7 +56,7 @@ button { font: inherit; }
   display: inline-flex;
   flex-direction: column;
   gap: 2px;
-  color: var(--slate);
+  color: var(--ink);
 }
 
 .brand-word {
@@ -70,7 +71,7 @@ button { font: inherit; }
   letter-spacing: .22em;
 }
 
-.site-header.scrolled .brand { color: var(--slate); }
+.site-header.scrolled .brand { color: var(--ink); }
 
 .main-nav { display: flex; align-items: center; gap: 34px; }
 
@@ -78,19 +79,19 @@ button { font: inherit; }
   font-size: 11px;
   letter-spacing: .13em;
   text-transform: uppercase;
-  color: var(--slate);
-  transition: color .3s ease, opacity .3s ease;
+  color: var(--ink);
+  transition: opacity .3s ease;
 }
 
-.site-header.scrolled .main-nav a { color: var(--slate); }
+.site-header.scrolled .main-nav a { color: var(--ink); }
 .main-nav a:hover { opacity: .58; }
 
 .main-nav .nav-cta {
-  border: 1px solid var(--slate);
+  border: 1px solid var(--ink);
   padding: 11px 18px;
 }
 
-.site-header.scrolled .main-nav .nav-cta { border-color: var(--slate); }
+.site-header.scrolled .main-nav .nav-cta { border-color: var(--ink); }
 .menu-toggle { display: none; }
 
 .hero {
@@ -134,7 +135,7 @@ button { font: inherit; }
   margin: 0 0 24px;
   font-size: 10px;
   letter-spacing: .22em;
-  color: var(--truffle);
+  color: var(--ink);
 }
 
 .eyebrow.light { color: rgba(248,246,241,.80); }
@@ -176,7 +177,7 @@ h1 {
 
 .btn-primary {
   background: var(--cotton);
-  color: var(--slate);
+  color: var(--ink);
   border: 1px solid var(--cotton);
 }
 
@@ -185,7 +186,7 @@ h1 {
   color: var(--cotton);
   border: 1px solid rgba(248,246,241,.78);
 }
-.btn-dark { background: var(--cotton); color: var(--slate); }
+.btn-dark { background: var(--cotton); color: var(--ink); }
 
 .text-link { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
 .text-link span { margin-left: 10px; }
@@ -193,26 +194,34 @@ h1 {
 
 
 .reviews-strip {
-  min-height: 205px;
-  padding: 34px 6vw;
+  width: calc(100% - 6vw);
+  max-width: 1780px;
+  min-height: 190px;
+  margin: 20px auto 0;
+  padding: 32px 44px;
   display: grid;
   grid-template-columns: .72fr 1.75fr auto;
-  gap: 5vw;
+  gap: 4.5vw;
   align-items: center;
-  background: var(--pebble);
-  color: var(--slate);
+  background: #ffffff;
+  color: var(--ink);
+  border: 1px solid rgba(17,17,17,.10);
+  border-radius: 24px;
 }
 
 .reviews-logo {
-  min-height: 126px;
+  min-height: 118px;
   padding-right: 4vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-right: 1px solid rgba(78,67,74,.24);
+  border-right: 1px solid rgba(17,17,17,.14);
 }
 
-.reviews-logo .eyebrow { margin-bottom: 12px; color: var(--slate); }
+.reviews-logo .eyebrow {
+  margin-bottom: 12px;
+  color: var(--ink);
+}
 
 .reviews-logo strong {
   font-family: var(--display);
@@ -230,13 +239,14 @@ h1 {
 
 .reviews-copy p {
   margin: 14px 0 0;
-  color: var(--slate);
+  color: rgba(17,17,17,.66);
   font-size: 13px;
 }
 
 .reviews-link {
   padding-bottom: 7px;
-  border-bottom: 1px solid var(--slate);
+  border-bottom: 1px solid var(--ink);
+  color: var(--ink);
   font-size: 10px;
   letter-spacing: .16em;
   text-transform: uppercase;
@@ -253,7 +263,7 @@ h1 {
   margin-bottom: -20px;
   font-family: var(--display);
   font-size: 13px;
-  color: var(--truffle);
+  color: var(--ink);
 }
 
 .intro {
@@ -285,7 +295,7 @@ h1 {
   max-width: 670px;
   margin: 30px 0 0 auto;
   font-size: 15px;
-  color: var(--slate);
+  color: rgba(17,17,17,.74);
 }
 
 .color-note {
@@ -304,7 +314,7 @@ h1 {
   font-size: 10px;
   letter-spacing: .11em;
   text-transform: uppercase;
-  color: var(--truffle);
+  color: var(--ink);
 }
 
 .dot { width: 10px; height: 10px; border-radius: 50%; }
@@ -328,7 +338,7 @@ h1 {
 .head-copy {
   margin: 0;
   font-size: 13px;
-  color: var(--slate);
+  color: rgba(17,17,17,.72);
 }
 
 .offer-grid {
@@ -370,7 +380,7 @@ h1 {
 
 .offer-card-main { background: var(--slate); color: var(--cotton); }
 .offer-card-house { background: var(--truffle); color: var(--cotton); }
-.offer-card-service { background: var(--pebble); color: var(--slate); }
+.offer-card-service { background: var(--pebble); color: var(--ink); }
 
 .offer-index {
   font-family: var(--display);
@@ -612,7 +622,7 @@ h1 {
   max-width:660px;
 }
 
-.about-copy p { color:var(--slate); }
+.about-copy p { color: rgba(17,17,17,.76); }
 
 .about-copy .large-copy {
   font-family:var(--display);
@@ -688,7 +698,7 @@ h1 {
   margin:0;
   max-width:620px;
   font-size:12px;
-  color:var(--slate);
+  color:rgba(17,17,17,.72);
 }
 
 .shop-cta {
@@ -781,7 +791,7 @@ details[open] summary span { transform:rotate(45deg); }
 details p {
   margin:0 60px 28px 0;
   font-size:12px;
-  color:var(--slate);
+  color:rgba(17,17,17,.72);
 }
 
 .contact {
@@ -1012,9 +1022,12 @@ footer a {
   .hero-actions { gap: 9px; }
 
   .reviews-strip {
-    padding:34px 22px;
-    grid-template-columns:1fr;
-    gap:25px;
+    width: calc(100% - 28px);
+    margin: 14px auto 0;
+    padding: 28px 22px;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    border-radius: 18px;
   }
 
   .reviews-logo {
@@ -1200,4 +1213,45 @@ footer a {
     opacity:1;
     transform:none;
   }
+}
+
+
+/* Intentional light-on-dark exceptions */
+.hero,
+.hero .eyebrow,
+.hero h1,
+.hero .text-link,
+.hero .btn-secondary,
+.offer-card-main,
+.offer-card-main h3,
+.offer-card-main p,
+.offer-card-main .offer-kicker,
+.offer-card-main .card-link,
+.offer-card-house,
+.offer-card-house h3,
+.offer-card-house p,
+.offer-card-house .offer-kicker,
+.offer-card-house .card-link,
+.image-break,
+.shop-cta,
+.shop-cta h2,
+.shop-cta p,
+.shop-cta .eyebrow,
+.contact,
+.contact h2,
+.contact a,
+.contact p,
+.footer-brand,
+footer,
+footer a,
+footer p {
+  color: var(--cotton);
+}
+
+.offer-card-service,
+.offer-card-service h3,
+.offer-card-service p,
+.offer-card-service .offer-kicker,
+.offer-card-service .card-link {
+  color: var(--ink);
 }
