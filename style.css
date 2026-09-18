@@ -2305,3 +2305,72 @@ details p {
     background-position: 54% center !important;
   }
 }
+
+
+/* ===== LAST VISUAL FIX: hero1 + cleaner offer ===== */
+.hero-bg {
+  background-image: url('hero1.png?v=3') !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Keep imagery visible — remove the milky white wash */
+.offer-item::after {
+  inset: 0 0 auto 0 !important;
+  height: 164px !important;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(78,67,74,.20) 0%,
+      rgba(78,67,74,.08) 42%,
+      rgba(78,67,74,.10) 72%,
+      rgba(78,67,74,.18) 100%
+    ) !important;
+}
+
+/* White service titles stay readable without the heavy glow */
+.offer-item summary .offer-title h3 {
+  color: #ffffff !important;
+  text-shadow: 0 1px 10px rgba(17,17,17,.28) !important;
+}
+
+/* Expanded description: clean white block with a clearly visible architectural grid */
+.offer-item[open] .offer-panel {
+  background-color: #ffffff !important;
+  background-image:
+    linear-gradient(rgba(78,67,74,.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(78,67,74,.12) 1px, transparent 1px) !important;
+  background-size: 28px 28px !important;
+  border-top: 1px solid rgba(78,67,74,.18) !important;
+}
+
+/* Do not cover the grid with another white overlay */
+.offer-item[open] .offer-panel::after {
+  display: none !important;
+}
+
+.offer-item[open] .offer-panel-copy {
+  position: relative;
+  z-index: 2;
+  background: transparent !important;
+}
+
+.offer-item[open] .offer-panel-copy p,
+.offer-item[open] .offer-panel-copy a {
+  color: var(--ink) !important;
+}
+
+@media (max-width: 760px) {
+  .hero-bg {
+    background-position: 56% center !important;
+  }
+
+  .offer-item::after {
+    height: 146px !important;
+  }
+
+  .offer-item[open] .offer-panel {
+    background-size: 24px 24px !important;
+  }
+}
