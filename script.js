@@ -40,3 +40,24 @@ details.forEach(item => item.addEventListener('toggle', () => {
 }));
 
 document.getElementById('year').textContent = new Date().getFullYear();
+
+
+const contactForm = document.getElementById('contact-form');
+
+contactForm?.addEventListener('submit', (event) => {
+  event.preventDefault();
+
+  const data = new FormData(contactForm);
+  const name = data.get('name') || '';
+  const email = data.get('email') || '';
+  const phone = data.get('phone') || '';
+  const scope = data.get('scope') || '';
+  const message = data.get('message') || '';
+
+  const subject = encodeURIComponent(`Zapytanie ze strony AZIZA — ${scope}`);
+  const body = encodeURIComponent(
+    `Imię i nazwisko: ${name}\nE-mail: ${email}\nTelefon: ${phone}\nZakres: ${scope}\n\nWiadomość:\n${message}`
+  );
+
+  window.location.href = `mailto:izabela.suwiczak@aziza-suwiczak.pl?subject=${subject}&body=${body}`;
+});
