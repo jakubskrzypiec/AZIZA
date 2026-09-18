@@ -41,13 +41,12 @@ button { font: inherit; }
   justify-content: space-between;
   background: var(--cotton);
   box-shadow: 0 1px 0 rgba(78,67,74,.12);
-  transition: height .35s ease, box-shadow .35s ease;
 }
 
 .site-header.scrolled {
-  height: 70px;
+  height: 78px;
   background: var(--cotton);
-  box-shadow: 0 1px 0 rgba(78,67,74,.18);
+  box-shadow: 0 1px 0 rgba(78,67,74,.12);
 }
 
 .brand {
