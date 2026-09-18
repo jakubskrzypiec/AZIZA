@@ -71,3 +71,97 @@ offerItems.forEach(item => item.addEventListener('toggle', () => {
     if (other !== item) other.open = false;
   });
 }));
+
+
+// ===== Final delivery motion layer =====
+requestAnimationFrame(() => {
+  requestAnimationFrame(() => document.body.classList.add('is-ready'));
+});
+
+const progressBar = document.querySelector('.scroll-progress span');
+const heroBg = document.querySelector('.hero-bg');
+const statement = document.querySelector('.statement');
+const aboutWord = document.querySelector('.about-word');
+const projectsWord = document.querySelector('.projects-word');
+
+let ticking = false;
+
+function updateMotion() {
+  const y = window.scrollY;
+  const max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+  const progress = Math.min(1, Math.max(0, y / max));
+
+  if (progressBar) {
+    progressBar.style.transform = `scaleX(${progress})`;
+  }
+
+  if (!reducedMotion) {
+    const heroOffset = Math.min(22, y * 0.035);
+    document.documentElement.style.setProperty('--hero-parallax', `${heroOffset}px`);
+
+    if (aboutWord) {
+      const rect = aboutWord.parentElement.getBoundingClientRect();
+      const local = (window.innerHeight - rect.top) * 0.018;
+      aboutWord.style.setProperty('--about-y', `${Math.max(-8, Math.min(18, local))}px`);
+    }
+
+    if (projectsWord) {
+      const rect = projectsWord.parentElement.getBoundingClientRect();
+      const local = (window.innerHeight - rect.top) * 0.012;
+      projectsWord.style.setProperty('--projects-x', `${Math.max(-12, Math.min(22, local))}px`);
+    }
+
+    if (statement) {
+      const rect = statement.getBoundingClientRect();
+      const centerOffset = (window.innerHeight / 2 - (rect.top + rect.height / 2)) * 0.025;
+      document.documentElement.style.setProperty('--statement-y', `${Math.max(-12, Math.min(12, centerOffset))}px`);
+    }
+  }
+
+  ticking = false;
+}
+
+window.addEventListener('scroll', () => {
+  if (!ticking) {
+    requestAnimationFrame(updateMotion);
+    ticking = true;
+  }
+}, { passive: true });
+
+window.addEventListener('resize', updateMotion, { passive: true });
+updateMotion();
+
+// Active navigation section state.
+const sectionMap = [
+  ['o-mnie', document.querySelector('.main-nav a[href="#o-mnie"]')],
+  ['oferta', document.querySelector('.main-nav a[href="#oferta"]')],
+  ['realizacje', document.querySelector('.main-nav a[href="#realizacje"]')],
+  ['sociale', document.querySelector('.main-nav a[href="#sociale"]')],
+  ['kontakt', document.querySelector('.main-nav a[href="#kontakt"]')]
+];
+
+if ('IntersectionObserver' in window) {
+  const activeObserver = new IntersectionObserver(entries => {
+    const visible = entries
+      .filter(entry => entry.isIntersecting)
+      .sort((a,b) => b.intersectionRatio - a.intersectionRatio)[0];
+
+    if (!visible) return;
+
+    sectionMap.forEach(([id, link]) => {
+      if (!link) return;
+      const active = id === visible.target.id;
+      link.classList.toggle('is-active', active);
+      if (active) link.setAttribute('aria-current', 'page');
+      else link.removeAttribute('aria-current');
+    });
+  }, {
+    threshold: [0.28, 0.5, 0.72],
+    rootMargin: '-18% 0px -48% 0px'
+  });
+
+  sectionMap.forEach(([id]) => {
+    const section = document.getElementById(id);
+    if (section) activeObserver.observe(section);
+  });
+}
