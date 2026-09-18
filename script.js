@@ -46,7 +46,7 @@ if (!reducedMotion && window.innerWidth > 760) {
       const section = el.parentElement;
       const rect = section.getBoundingClientRect();
       if (rect.bottom < 0 || rect.top > window.innerHeight) return;
-      const offset = (rect.top + rect.height / 2 - window.innerHeight / 2) * -0.045;
+      const offset = (rect.top + rect.height / 2 - window.innerHeight / 2) * -0.055;
       el.style.transform = `translate3d(0, ${offset}px, 0) scale(1.03)`;
     });
   };
