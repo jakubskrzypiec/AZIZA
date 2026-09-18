@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>AZIZA Pracownia Architektoniczna | Kościan</title>
-  <meta name="description" content="AZIZA Pracownia Architektoniczna w Kościanie. Projekty wnętrz, domów jednorodzinnych i wielorodzinnych oraz budynków usługowych.">
-  <meta name="theme-color" content="#F8F6F1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AZIZA Pracownia Architektoniczna — projektowanie wnętrz, domów jednorodzinnych i wielorodzinnych oraz budynków usługowych. Kościan i Wielkopolska.">
+  <title>AZIZA Pracownia Architektoniczna — Kościan</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,305 +13,303 @@
 
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": ["ProfessionalService", "LocalBusiness"],
-    "name": "AZIZA Pracownia Architektoniczna",
-    "telephone": "+48574278597",
-    "email": "izabela.suwiczak@aziza-suwiczak.pl",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Feliksa Nowowiejskiego 29",
-      "postalCode": "64-000",
-      "addressLocality": "Kościan",
-      "addressRegion": "Wielkopolskie",
-      "addressCountry": "PL"
+    "@context":"https://schema.org",
+    "@type":["ProfessionalService","LocalBusiness"],
+    "name":"AZIZA Pracownia Architektoniczna",
+    "telephone":"+48574278597",
+    "email":"izabela.suwiczak@aziza-suwiczak.pl",
+    "address":{
+      "@type":"PostalAddress",
+      "streetAddress":"Feliksa Nowowiejskiego 29",
+      "postalCode":"64-000",
+      "addressLocality":"Kościan",
+      "addressRegion":"Wielkopolskie",
+      "addressCountry":"PL"
     },
-    "url": "https://www.aziza-suwiczak.pl/"
+    "sameAs":[
+      "https://www.instagram.com/aziza.architektura/",
+      "https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/"
+    ]
   }
   </script>
 </head>
-
 <body>
-  <a class="skip-link" href="#main">Przejdź do treści</a>
-
-  <header class="site-header" data-header>
-    <a class="brand" href="#start" aria-label="AZIZA — strona główna">
-      <span class="brand__name">AZIZA</span>
-      <span class="brand__sub">PRACOWNIA ARCHITEKTONICZNA</span>
+  <header class="site-header" id="header">
+    <a href="#start" class="brand" aria-label="AZIZA — strona główna">
+      <img src="logo-aziza.png" alt="AZIZA Pracownia Architektoniczna">
     </a>
 
-    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">
-      <span>MENU</span>
-      <i aria-hidden="true"></i>
+    <button class="menu-toggle" type="button" aria-label="Otwórz menu" aria-expanded="false">
+      <span></span><span></span>
     </button>
 
-    <nav class="main-nav" id="main-nav" aria-label="Główna nawigacja">
-      <a href="#oferta">OFERTA</a>
-      <a href="#realizacje">REALIZACJE</a>
-      <a href="#o-mnie">O MNIE</a>
-      <a href="#sociale">SOCIAL MEDIA</a>
-      <a href="#kontakt">KONTAKT</a>
+    <nav class="main-nav" aria-label="Nawigacja główna">
+      <a href="#o-mnie">O mnie</a>
+      <a href="#oferta">Oferta</a>
+      <a href="#realizacje">Realizacje</a>
+      <a href="#proces">Jak pracuję</a>
+      <a href="#kontakt" class="nav-cta">Porozmawiajmy</a>
     </nav>
   </header>
 
-  <main id="main">
-    <section class="hero" id="start">
-      <img class="hero__image" src="hero.png" alt="Jasne, minimalistyczne wnętrze w ciepłych beżowych odcieniach" fetchpriority="high">
+  <main>
+    <section class="hero" id="start" aria-labelledby="hero-title">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="hero-shade" aria-hidden="true"></div>
 
-      <div class="hero-card reveal is-visible">
-        <span class="hero-card__line" aria-hidden="true"></span>
-        <p class="kicker">AZIZA · PRACOWNIA ARCHITEKTONICZNA</p>
-        <h1>Tworzę.<br>Projektuję.<br>Inspiruję.</h1>
-        <p class="hero__lead">Pracownia architektoniczna na miarę Twojego projektu.</p>
-
-        <div class="hero__actions">
-          <a class="button button--light" href="#oferta">ZOBACZ OFERTĘ <span>↘</span></a>
-          <a class="button button--outline" href="tel:+48574278597">ZADZWOŃ <span>↗</span></a>
+      <div class="hero-content reveal">
+        <p class="eyebrow light">AZIZA · PRACOWNIA ARCHITEKTONICZNA</p>
+        <h1 id="hero-title">Architektura, która<br><span>zaczyna się od Ciebie.</span></h1>
+        <p class="hero-lead">Projektuję wnętrza, domy i obiekty usługowe tak, aby estetyka wynikała z funkcji, a przestrzeń dobrze działała na co dzień.</p>
+        <div class="hero-actions">
+          <a href="#oferta" class="btn btn-primary">Zobacz ofertę <span>↘</span></a>
+          <a href="tel:+48574278597" class="text-link text-link-light">Zadzwoń <span>↗</span></a>
         </div>
       </div>
 
-      <div class="hero__meta">
-        <span>KOŚCIAN</span>
-        <span>ARCHITEKTURA · WNĘTRZA</span>
+      <a href="#opinie" class="scroll-cue" aria-label="Przewiń niżej"><span>SCROLL</span><i></i></a>
+    </section>
+
+    <section class="reviews-strip" id="opinie">
+      <div class="reviews-logo reveal">
+        <p class="eyebrow">OPINIE KLIENTÓW</p>
+        <strong>Google</strong>
+      </div>
+      <div class="reviews-copy reveal delay-1">
+        <h2>Zobacz, jak klienci oceniają współpracę z AZIZA.</h2>
+        <p>Aktualne opinie są dostępne bezpośrednio w profilu Google.</p>
+      </div>
+      <a class="reviews-link reveal delay-2" href="https://www.google.com/maps/search/?api=1&query=AZIZA+Pracownia+Architektoniczna+Ko%C5%9Bcian" target="_blank" rel="noopener">Zobacz opinie <span>↗</span></a>
+    </section>
+
+    <section class="intro section" id="intro">
+      <div class="section-number reveal">01</div>
+      <div class="intro-grid">
+        <p class="eyebrow reveal">PROJEKTOWANIE Z MYŚLĄ O CZŁOWIEKU</p>
+        <div class="intro-copy reveal delay-1">
+          <h2>Dobry projekt nie zaczyna się od dekoracji.</h2>
+          <p>Zaczyna się od sposobu życia, potrzeb, światła i proporcji. Dopiero później pojawiają się materiały, kolory i detale, które nadają przestrzeni charakter.</p>
+        </div>
+      </div>
+      <div class="color-note reveal delay-2">
+        <span class="swatch swatch-cotton"></span>
+        <span class="swatch swatch-pebble"></span>
+        <span class="swatch swatch-truffle"></span>
+        <span class="swatch swatch-slate"></span>
+        <p>Spokojnie. Funkcjonalnie. Ponadczasowo.</p>
       </div>
     </section>
 
-    <section class="reviews" id="opinie">
-      <div class="container reviews__grid reveal">
-        <div class="reviews__brand">
-          <span class="eyebrow">OPINIE KLIENTÓW</span>
-          <strong>Google</strong>
-          <span class="reviews__mark">G</span>
-        </div>
-
-        <div class="reviews__copy">
-          <h2>Zobacz, jak klienci oceniają współpracę z AZIZA.</h2>
-          <p>Aktualne opinie są dostępne bezpośrednio w profilu Google.</p>
-        </div>
-
-        <a class="arrow-link arrow-link--filled" href="https://www.google.com/maps/search/?api=1&query=AZIZA+Pracownia+Architektoniczna+Ko%C5%9Bcian&query_place_id=ChIJ5zA0-ekk6EcRxdIfnX7HGgk" target="_blank" rel="noopener noreferrer">
-          ZOBACZ OPINIE <span>↗</span>
-        </a>
-      </div>
-    </section>
-
-    <section class="section offer" id="oferta">
-      <div class="container">
-        <div class="section-top section-top--compact reveal">
-          <div>
-            <span class="eyebrow">01 / OFERTA</span>
-            <h2>Trzy obszary.<br>Jeden spójny kierunek.</h2>
-          </div>
-          <p>Projekt zaczyna się od funkcji, proporcji i sposobu życia. Dopiero później przychodzi forma.</p>
-        </div>
-
-        <div class="offer-layout">
-          <div class="offer-cards">
-            <a class="offer-card offer-card--pebble reveal" href="https://www.aziza-suwiczak.pl/projektowanie-wnetrz/" target="_blank" rel="noopener noreferrer">
-              <span class="offer-card__no">01</span>
-              <div>
-                <h3>Projektowanie wnętrz</h3>
-                <p>Wnętrza dopasowane do codzienności mieszkańców — funkcjonalne, estetyczne i spójne z ich stylem życia.</p>
-              </div>
-              <span class="offer-card__arrow">↗</span>
-            </a>
-
-            <a class="offer-card offer-card--cotton reveal" href="https://www.aziza-suwiczak.pl/projektowanie-domow-jednorodzinnych-i-wielorodzinnych/" target="_blank" rel="noopener noreferrer">
-              <span class="offer-card__no">02</span>
-              <div>
-                <h3>Domy jednorodzinne i wielorodzinne</h3>
-                <p>Projekty mieszkalne łączące komfort, ergonomię, estetykę oraz rozwiązania odpowiadające na potrzeby przyszłych mieszkańców.</p>
-              </div>
-              <span class="offer-card__arrow">↗</span>
-            </a>
-
-            <a class="offer-card offer-card--truffle reveal" href="https://www.aziza-suwiczak.pl/projektowanie-budynkow-uslugowych/" target="_blank" rel="noopener noreferrer">
-              <span class="offer-card__no">03</span>
-              <div>
-                <h3>Budynki usługowe</h3>
-                <p>Przestrzenie dla biznesu projektowane z myślą o funkcji, wygodzie klientów i pracowników oraz spójnym wizerunku miejsca.</p>
-              </div>
-              <span class="offer-card__arrow">↗</span>
-            </a>
-          </div>
-
-          <figure class="offer-visual reveal">
-            <img src="przerywnik-plan.png" loading="lazy" alt="Plan architektoniczny, ołówek i próbki materiałów AZIZA">
-            <figcaption>
-              <span>OD SZKICU</span>
-              <span>DO PRZESTRZENI</span>
-            </figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-    <section class="wide-story reveal" aria-label="Materiały i detal">
-      <div class="wide-story__image">
-        <img src="przerywnik-wide.png" loading="lazy" alt="Notatnik AZIZA pośród próbek materiałów i tkanin">
-      </div>
-      <div class="wide-story__panel">
-        <span class="eyebrow eyebrow--light">MATERIAŁ / ŚWIATŁO / PROPORCJA</span>
-        <p>Dobry projekt nie potrzebuje nadmiaru. Potrzebuje właściwych decyzji.</p>
-      </div>
-    </section>
-
-    <section class="projects" id="realizacje">
-      <div class="container projects__heading reveal">
+    <section class="offer section" id="oferta">
+      <div class="section-head reveal">
         <div>
-          <span class="eyebrow eyebrow--light">02 / REALIZACJE</span>
-          <h2>Przestrzenie do<br>życia, pracy i bycia.</h2>
+          <p class="eyebrow">02 · ZAKRES WSPÓŁPRACY</p>
+          <h2>Projekt dopasowany do miejsca i jego funkcji.</h2>
         </div>
-        <p>Finalne zdjęcia klientki wstawimy tutaj bez zmiany konstrukcji sekcji.</p>
+        <p class="head-copy">Od wnętrza, przez dom, po obiekt usługowy. Każdy zakres prowadzony jest jako spójna całość — od założeń po konkretny kierunek projektowy.</p>
       </div>
 
-      <div class="project-rail" aria-label="Wybrane realizacje">
-        <article class="project-tile project-tile--xl reveal">
-          <div class="project-tile__surface project-tile__surface--cotton"></div>
-          <div class="project-tile__meta">
-            <span>01</span>
-            <strong>DOM JEDNORODZINNY</strong>
+      <div class="offer-grid">
+        <article class="offer-card offer-card-main reveal">
+          <div class="offer-index">01</div>
+          <div>
+            <p class="offer-kicker">WNĘTRZA</p>
+            <h3>Projektowanie wnętrz</h3>
+            <p>Projekty mieszkań, domów i pojedynczych pomieszczeń. Funkcja, światło, materiały i estetyka porządkowane w jeden konsekwentny język.</p>
+            <a href="https://www.aziza-suwiczak.pl/projektowanie-wnetrz/" target="_blank" rel="noopener" class="card-link">Poznaj zakres <span>↗</span></a>
           </div>
         </article>
 
-        <article class="project-tile project-tile--portrait reveal">
-          <div class="project-tile__surface project-tile__surface--pebble"></div>
-          <div class="project-tile__meta">
-            <span>02</span>
-            <strong>WNĘTRZE</strong>
+        <article class="offer-card offer-card-house reveal delay-1">
+          <div class="offer-index">02</div>
+          <div>
+            <p class="offer-kicker">ARCHITEKTURA</p>
+            <h3>Domy jednorodzinne i wielorodzinne</h3>
+            <p>Architektura mieszkalna tworzona wokół codziennych potrzeb użytkowników, relacji z otoczeniem i czytelnego układu funkcjonalnego.</p>
+            <a href="https://www.aziza-suwiczak.pl/projektowanie-domow-jednorodzinnych-i-wielorodzinnych/" target="_blank" rel="noopener" class="card-link">Poznaj zakres <span>↗</span></a>
           </div>
         </article>
 
-        <article class="project-tile project-tile--square reveal">
-          <div class="project-tile__surface project-tile__surface--truffle"></div>
-          <div class="project-tile__meta">
-            <span>03</span>
-            <strong>MIESZKANIE</strong>
+        <article class="offer-card offer-card-service reveal delay-2">
+          <div class="offer-index">03</div>
+          <div>
+            <p class="offer-kicker">BIZNES</p>
+            <h3>Budynki usługowe</h3>
+            <p>Przestrzenie, które mają dobrze działać dla klientów, pracowników i samej marki — funkcjonalnie, czytelnie i spójnie.</p>
+            <a href="https://www.aziza-suwiczak.pl/projektowanie-budynkow-uslugowych/" target="_blank" rel="noopener" class="card-link">Poznaj zakres <span>↗</span></a>
           </div>
         </article>
-
-        <article class="project-tile project-tile--portrait reveal">
-          <div class="project-tile__surface project-tile__surface--cotton"></div>
-          <div class="project-tile__meta">
-            <span>04</span>
-            <strong>DOM</strong>
-          </div>
-        </article>
-
-        <article class="project-tile project-tile--wide reveal">
-          <div class="project-tile__surface project-tile__surface--pebble"></div>
-          <div class="project-tile__meta">
-            <span>05</span>
-            <strong>PRZESTRZEŃ USŁUGOWA</strong>
-          </div>
-        </article>
-      </div>
-
-      <div class="projects__hint container">
-        <span>PRZESUŃ GALERIĘ</span>
-        <span>→</span>
       </div>
     </section>
 
-    <section class="atelier">
-      <div class="container atelier__grid">
-        <figure class="atelier__image atelier__image--large reveal">
-          <img src="przerywnik-notatnik.png" loading="lazy" alt="Notatnik AZIZA na tle tkanin i próbek materiałów">
-        </figure>
-
-        <div class="atelier__copy reveal">
-          <span class="eyebrow">PRACOWNIA</span>
-          <p class="atelier__quote">Każdy projekt zaczyna się od obserwacji. Światła, ruchu, rytmu dnia i tego, jak człowiek korzysta z przestrzeni.</p>
-        </div>
-
-        <figure class="atelier__image atelier__image--small reveal">
-          <img src="przerywnik-plan.png" loading="lazy" alt="Plan architektoniczny w pracowni AZIZA">
-        </figure>
+    <section class="image-break image-break-notebook" aria-label="Pracownia AZIZA">
+      <div class="parallax-bg"></div>
+      <div class="image-break-caption reveal">
+        <p>Projekt to więcej niż wizualizacja.</p>
+        <span>To świadome decyzje o funkcji, proporcji, materiale i świetle.</span>
       </div>
     </section>
 
-    <section class="about" id="o-mnie">
-      <div class="about__backdrop" aria-hidden="true">IZABELA</div>
-
-      <div class="container about__stage">
-        <div class="about__portrait reveal">
-          <span>MIEJSCE NA ZDJĘCIE</span>
+    <section class="projects section" id="realizacje">
+      <div class="section-head project-head reveal">
+        <div>
+          <p class="eyebrow">03 · WYBRANE REALIZACJE</p>
+          <h2>Każda przestrzeń ma własny charakter.</h2>
         </div>
+        <p class="head-copy">Poniższe pola są przygotowane pod finalne zdjęcia realizacji. Po wgraniu plików pojawią się automatycznie bez zmiany układu strony.</p>
+      </div>
 
-        <div class="about__card reveal">
-          <span class="eyebrow">03 / O MNIE</span>
-          <h2>Architektura to doświadczenie.</h2>
-          <p class="about__lead">AZIZA to pracownia skupiająca się na nowoczesnym designie, wnętrzach, krajobrazach oraz fotorealistycznych wizualizacjach.</p>
-          <p>Projekt prowadzony jest od początku do końca. Ważne są zarówno potrzeby estetyczne, jak i praktyczne — tak, aby przestrzeń była spójna, funkcjonalna i dopasowana do osób, które będą z niej korzystać.</p>
-
-          <div class="about__tags">
-            <span>ARCHITEKTURA</span>
-            <span>WNĘTRZA</span>
-            <span>WIZUALIZACJE</span>
+      <div class="project-grid">
+        <article class="project-card reveal">
+          <div class="project-visual project-visual-one">
+            <img src="realizacja-1.webp" alt="Realizacja AZIZA — projekt 01" loading="lazy" onerror="this.hidden=true">
+            <span class="project-placeholder">MIEJSCE NA REALIZACJĘ</span>
           </div>
+          <div class="project-meta"><b>Realizacja 01</b><small>architektura / wnętrza</small></div>
+        </article>
 
-          <a class="arrow-link" href="https://www.aziza-suwiczak.pl/o-mnie/" target="_blank" rel="noopener noreferrer">
-            WIĘCEJ O PRACOWNI <span>↗</span>
-          </a>
-        </div>
+        <article class="project-card reveal delay-1">
+          <div class="project-visual project-visual-two">
+            <img src="realizacja-2.webp" alt="Realizacja AZIZA — projekt 02" loading="lazy" onerror="this.hidden=true">
+            <span class="project-placeholder">MIEJSCE NA REALIZACJĘ</span>
+          </div>
+          <div class="project-meta"><b>Realizacja 02</b><small>architektura / wnętrza</small></div>
+        </article>
+
+        <article class="project-card reveal delay-2">
+          <div class="project-visual project-visual-three">
+            <img src="realizacja-3.webp" alt="Realizacja AZIZA — projekt 03" loading="lazy" onerror="this.hidden=true">
+            <span class="project-placeholder">MIEJSCE NA REALIZACJĘ</span>
+          </div>
+          <div class="project-meta"><b>Realizacja 03</b><small>architektura / wnętrza</small></div>
+        </article>
       </div>
     </section>
 
-    <section class="social" id="sociale">
-      <div class="container">
-        <div class="social__heading reveal">
-          <span class="eyebrow">SOCIAL MEDIA</span>
-          <h2>Bądźmy w kontakcie.</h2>
+    <section class="image-break image-break-plan" aria-label="Projekt architektoniczny AZIZA">
+      <div class="parallax-bg"></div>
+      <p class="break-word reveal">Od pierwszej kreski do spójnej przestrzeni.</p>
+    </section>
+
+    <section class="about section" id="o-mnie">
+      <div class="about-grid">
+        <div class="about-heading reveal">
+          <p class="eyebrow">04 · IZABELA SUWICZAK</p>
+          <h2>Architektura jako połączenie funkcji i wrażliwości.</h2>
+          <div class="about-photo">
+            <img src="izabela.webp" alt="Izabela Suwiczak — AZIZA Pracownia Architektoniczna" loading="lazy" onerror="this.hidden=true">
+            <span>MIEJSCE NA ZDJĘCIE</span>
+          </div>
         </div>
 
-        <div class="social__rows reveal">
-          <a class="social-row social-row--instagram" href="https://www.instagram.com/aziza.architektura/" target="_blank" rel="noopener noreferrer">
-            <span class="social-row__tag">IG</span>
-            <div>
-              <strong>INSTAGRAM</strong>
-              <small>@aziza.architektura</small>
-            </div>
-            <span class="social-row__arrow">↗</span>
-          </a>
-
-          <a class="social-row social-row--facebook" href="https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/" target="_blank" rel="noopener noreferrer">
-            <span class="social-row__tag">f</span>
-            <div>
-              <strong>FACEBOOK</strong>
-              <small>AZIZA Pracownia Architektoniczna</small>
-            </div>
-            <span class="social-row__arrow">↗</span>
-          </a>
+        <div class="about-copy reveal delay-1">
+          <p class="large-copy">AZIZA to pracownia skupiająca się na nowoczesnym designie, wnętrzach, architekturze oraz fotorealistycznych wizualizacjach.</p>
+          <p>W projekcie równie ważne są potrzeby estetyczne i praktyczne. Celem jest przestrzeń spójna, funkcjonalna i dopasowana do osób, które będą z niej korzystać — od pierwszego pomysłu po etap realizacji.</p>
+          <p>Artystyczną częścią pracy Izabeli są również autorskie obrazy akrylowe. Ta sama wrażliwość na światło, kolor i kompozycję wraca później w projektowanych wnętrzach.</p>
+          <div class="about-links">
+            <a href="https://www.instagram.com/aziza.architektura/" target="_blank" rel="noopener">Instagram <span>↗</span></a>
+            <a href="https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/" target="_blank" rel="noopener">Facebook <span>↗</span></a>
+          </div>
         </div>
+      </div>
+
+      <div class="signature-strip reveal">
+        <span>architektura</span><i>•</i><span>wnętrza</span><i>•</i><span>wizualizacje</span><i>•</i><span>detal</span><i>•</i><span>sztuka</span>
+      </div>
+    </section>
+
+    <section class="process section" id="proces">
+      <div class="section-head reveal">
+        <div>
+          <p class="eyebrow">05 · JAK PRACUJĘ</p>
+          <h2>Od pierwszej rozmowy do konkretnego projektu.</h2>
+        </div>
+        <p class="head-copy">Dobrze poukładany proces pozwala podejmować decyzje we właściwej kolejności i ogranicza przypadkowe zmiany podczas realizacji.</p>
+      </div>
+
+      <div class="process-list">
+        <article class="process-row reveal">
+          <span>01</span><h3>Poznaję potrzeby</h3><p>Rozmawiamy o miejscu, użytkownikach, stylu życia, oczekiwaniach i najważniejszych założeniach projektu.</p>
+        </article>
+        <article class="process-row reveal">
+          <span>02</span><h3>Porządkuję funkcję</h3><p>Układam przestrzeń tak, aby komunikacja, proporcje i codzienne użytkowanie były logiczne i wygodne.</p>
+        </article>
+        <article class="process-row reveal">
+          <span>03</span><h3>Buduję kierunek</h3><p>Powstaje spójna koncepcja materiałów, kolorów, światła i charakteru całej przestrzeni.</p>
+        </article>
+        <article class="process-row reveal">
+          <span>04</span><h3>Przekładam pomysł na projekt</h3><p>Założenia zostają uporządkowane w materiał, który pozwala świadomie przejść do kolejnych etapów realizacji.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="image-break image-break-wide" aria-label="Detal AZIZA">
+      <div class="parallax-bg"></div>
+    </section>
+
+    <section class="social-cta section" id="sociale">
+      <div class="social-card reveal">
+        <p class="eyebrow light">SOCIAL MEDIA</p>
+        <h2>Zobacz pracownię od środka.</h2>
+        <p>Realizacje, detale, proces projektowy i bieżące materiały z pracowni znajdziesz również na Instagramie i Facebooku.</p>
+      </div>
+      <div class="social-aside reveal delay-1">
+        <a href="https://www.instagram.com/aziza.architektura/" target="_blank" rel="noopener"><span>Instagram</span><b>↗</b></a>
+        <a href="https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/" target="_blank" rel="noopener"><span>Facebook</span><b>↗</b></a>
+      </div>
+    </section>
+
+    <section class="faq section">
+      <div class="faq-heading reveal">
+        <p class="eyebrow">06 · PYTANIA</p>
+        <h2>Zanim napiszesz.</h2>
+      </div>
+      <div class="faq-list">
+        <details class="reveal">
+          <summary>Czy projektujecie pojedyncze pomieszczenia?<span>+</span></summary>
+          <p>Zakres współpracy może obejmować zarówno całe wnętrze, jak i wybraną część przestrzeni. Szczegóły są ustalane na początku rozmowy.</p>
+        </details>
+        <details class="reveal">
+          <summary>Czy mogę zlecić projekt domu?<span>+</span></summary>
+          <p>Tak. Oferta pracowni obejmuje projektowanie domów jednorodzinnych i wielorodzinnych.</p>
+        </details>
+        <details class="reveal">
+          <summary>Czy AZIZA projektuje obiekty usługowe?<span>+</span></summary>
+          <p>Tak. Jednym z głównych obszarów działalności pracowni są projekty budynków i przestrzeni usługowych.</p>
+        </details>
+        <details class="reveal">
+          <summary>Jak zacząć współpracę?<span>+</span></summary>
+          <p>Najprościej skontaktować się telefonicznie lub mailowo i krótko opisać rodzaj inwestycji, lokalizację oraz oczekiwany zakres projektu.</p>
+        </details>
       </div>
     </section>
 
     <section class="contact" id="kontakt">
-      <div class="container contact__grid reveal">
-        <div>
-          <span class="eyebrow eyebrow--light">04 / KONTAKT</span>
-          <h2>Masz projekt?<br>Porozmawiajmy.</h2>
+      <div class="contact-inner">
+        <p class="eyebrow light reveal">07 · ZACZNIJMY OD ROZMOWY</p>
+        <div class="contact-top reveal delay-1">
+          <h2>Masz przestrzeń do zaprojektowania? Porozmawiajmy.</h2>
+          <div class="contact-links">
+            <a class="contact-mail" href="mailto:izabela.suwiczak@aziza-suwiczak.pl">izabela.suwiczak@aziza-suwiczak.pl <span>↗</span></a>
+            <a class="contact-phone" href="tel:+48574278597">+48 574 278 597 <span>↗</span></a>
+          </div>
         </div>
-
-        <div class="contact__details">
-          <a href="tel:+48574278597">+48 574 278 597 <span>↗</span></a>
-          <a href="mailto:izabela.suwiczak@aziza-suwiczak.pl">izabela.suwiczak@aziza-suwiczak.pl <span>↗</span></a>
-          <p>ul. Feliksa Nowowiejskiego 29<br>64-000 Kościan</p>
+        <div class="contact-bottom reveal delay-2">
+          <p>ul. Feliksa Nowowiejskiego 29, 64-000 Kościan · architektura · wnętrza · Wielkopolska</p>
+          <div class="social-buttons">
+            <a href="https://www.instagram.com/aziza.architektura/" target="_blank" rel="noopener">Instagram ↗</a>
+            <a href="https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/" target="_blank" rel="noopener">Facebook ↗</a>
+          </div>
         </div>
       </div>
+
+      <footer>
+        <img src="logo-aziza.png" alt="AZIZA Pracownia Architektoniczna">
+        <p>© <span id="year"></span> AZIZA · NIP 6981862921</p>
+        <a href="#start">Do góry ↑</a>
+      </footer>
     </section>
   </main>
-
-  <footer class="footer">
-    <div class="container footer__grid">
-      <div>
-        <strong>AZIZA</strong>
-        <span>PRACOWNIA ARCHITEKTONICZNA</span>
-      </div>
-      <p>NIP 6981862921</p>
-      <p>© <span data-year></span> AZIZA</p>
-    </div>
-  </footer>
 
   <script src="script.js"></script>
 </body>
