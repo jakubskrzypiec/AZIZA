@@ -2284,7 +2284,7 @@ details p {
 
 /* ===== USER FINAL TWEAKS: purple hero + white offer headings ===== */
 .hero-bg {
-  background-image: url('hero-purple.webp') !important;
+  background-image: url('hero-purple.webp?v=2') !important;
   background-position: center center !important;
   background-size: cover !important;
 }
