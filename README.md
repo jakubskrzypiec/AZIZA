@@ -19,7 +19,7 @@ Teksty i fotografie pochodzą z publicznej strony https://www.aziza-suwiczak.pl/
 
 ## Dalsze poprawki
 
-Treść edytuje się bezpośrednio w odpowiednim pliku HTML. `style.css` to istniejący styl strony głównej; `pages.css` zawiera styl podstron. `script.js` odpowiada za dotychczasowe interakcje i przygotowanie wiadomości e-mail, a `pages.js` za filtry portfolio, galerie i wybór wariantu oferty.
+Treść edytuje się bezpośrednio w odpowiednim pliku HTML. `style.css` to istniejący styl strony głównej; `pages.css` zawiera styl podstron, a `home.css` poprawki hero, sekcji „O mnie”, oferty i wybranych realizacji na stronie głównej. `script.js` odpowiada za dotychczasowe interakcje i przygotowanie wiadomości e-mail, a `pages.js` za filtry portfolio, galerie i wybór wariantu oferty.
 
 Formularz nie ma serwera wysyłającego wiadomości. Otwiera program pocztowy użytkownika z uzupełnionym zapytaniem. Przed publikacją można podłączyć docelową usługę wysyłki.
 
