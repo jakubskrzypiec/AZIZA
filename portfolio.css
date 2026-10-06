@@ -18,23 +18,15 @@
   .portfolio-card:hover .portfolio-logo-overlay .aziza-logo { transform: translateY(0); }
 }
 .portfolio-card > a:focus-visible { outline: 2px solid var(--slate); outline-offset: 5px; }
-.portfolio-interlude { grid-column: 1 / -1; margin: 25px 0; }
-.gallery-scene { position: relative; overflow: hidden; aspect-ratio: 1; isolation: isolate; max-width: 640px; margin-inline: auto; }
-.gallery-scene > img { position: absolute; inset: 0; height: 100%; width: 100%; object-fit: cover; }
-.gallery-scene > .gallery-artwork { inset: 11.25% auto auto 36%; width: 28.15%; height: 39%; object-fit: cover; }
-.gallery-interlude-copy { display: flex; flex-direction: column; justify-content: center; padding: 55px 45px; }
-.gallery-interlude-copy .eyebrow { color: var(--cotton); opacity: .65; }
-.gallery-interlude-copy h2 { color: inherit; font-size: clamp(30px,3vw,44px); line-height: 1.35; margin: 24px 0; }
-.gallery-interlude-copy p:not(.eyebrow) { color: inherit; opacity: .8; font-size: 15px; line-height: 1.9; max-width: 390px; }
-.gallery-text-link { align-self: flex-start; margin-top: 32px; padding-bottom: 8px; border-bottom: 1px solid rgba(248,246,241,.4); font-size: 13px; }
-.gallery-text-link span { margin-left: 35px; }
 @media(max-width:760px) {
   .portfolio-page .portfolio-grid { grid-template-columns: 1fr; gap: 30px; }
   .portfolio-page .portfolio-card { padding: 0; }
   .portfolio-page .portfolio-image > img { height: 370px; }
   .portfolio-page .card-meta { min-height: 0; padding: 22px 12px; }
-  .portfolio-interlude { grid-template-columns: 1fr; margin: 15px 0; }
-  .gallery-scene { min-height: 0; }
-  .gallery-interlude-copy { padding: 36px 26px 45px; }
-}
+      }
 @media(prefers-reduced-motion:reduce) { .portfolio-page .portfolio-card,.portfolio-logo-overlay,.portfolio-logo-overlay .aziza-logo { transition: none; } }
+
+.gallery-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 25px; margin-bottom: 45px; }
+.gallery-heading h2 { font-size: clamp(28px,3vw,42px); margin: 0; }
+.gallery-heading p { color: var(--truffle); font-size: 13px; margin: 0; white-space: nowrap; }
+@media(max-width:760px) { .gallery-heading { align-items: flex-start; flex-direction: column; gap: 18px; margin-bottom: 30px; } }
