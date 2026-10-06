@@ -1,0 +1,94 @@
+/* A quiet, shared finish; page-specific layouts remain intact. */
+:root { --finish-space: clamp(65px,7.5vw,110px); }
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+h1,h2,h3 { text-wrap: balance; }
+p { text-wrap: pretty; }
+.section { padding-block: var(--finish-space); }
+.site-header { background: rgba(248,246,241,.97); box-shadow: 0 1px 0 rgba(78,67,74,.12); }
+.site-header.scrolled { background: rgba(248,246,241,.96); backdrop-filter: blur(14px); }
+.main-nav a:hover { opacity: 1; color: var(--slate); }
+.main-nav a:focus-visible { outline-offset: 9px; }
+.eyebrow { letter-spacing: .16em; line-height: 1.8; }
+.btn,.contact-submit { border-radius: 0; box-shadow: none; font-weight: 400; transition: background .3s,color .3s,border-color .3s; }
+.btn span,.text-link span { transition: transform .3s ease; }
+.btn:hover span,.text-link:hover span { transform: translate(3px,-3px); }
+.btn:focus-visible,.contact-submit:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
+.section-head::before,.faq-heading::before,.contact-copy::before { content: none; }
+.page-cta::after { content: none; }
+.page-cta { padding-block: clamp(65px,7vw,100px); }
+.page-cta .eyebrow { color: rgba(248,246,241,.7); }
+.page-cta h2 { margin-top: 20px; max-width: 1000px; }
+.page-cta .btn { border-color: rgba(248,246,241,.55); color: var(--cotton); }
+.page-meta { padding-top: 35px; padding-bottom: 45px; }
+.page-meta .breadcrumbs { margin-bottom: 22px; }
+.page-meta .page-summary-title { max-width: 850px; }
+.page-meta .intro-lead { line-height: 1.9; }
+.page-footer { padding-bottom: 0; }
+.footer-top { padding-top: 65px; padding-bottom: 50px; }
+.footer-bottom { padding-block: 22px; }
+.site-footer .footer-brand-block > p { max-width: 330px; line-height: 1.9; }
+.site-footer a:hover { color: var(--pebble); }
+.site-footer .footer-nav a { width: fit-content; }
+.form-grid input,.form-grid textarea,.form-grid select { border-radius: 0; transition: border-color .25s,background .25s; }
+.form-grid input:hover,.form-grid textarea:hover,.form-grid select:hover { border-color: var(--pebble); }
+.form-grid input:focus,.form-grid textarea:focus,.form-grid select:focus { border-color: var(--slate); outline: 2px solid rgba(78,67,74,.18); outline-offset: 3px; background: #fffdf9; }
+.home-page .hero-bg { background-image: url('assets/hero-home.webp') !important; }
+.home-page .section-head { margin-bottom: 50px; }
+.home-page .about-grid { gap: clamp(40px,7vw,100px); align-items: center; }
+.home-page .about h2 { max-width: 750px; line-height: 1.2; }
+.home-page .about-photo-placeholder { border: 0; border-radius: 0; background: #eee9e3; }
+.home-page .home-offer { display: flex; flex-direction: column; min-height: 390px; padding: 40px 32px; border: 0; border-top: 1px solid var(--pebble); background: rgba(168,154,147,.09); }
+.home-page .home-offer::after { content: none; }
+.home-page .home-offer h3 { font-size: clamp(28px,2.8vw,40px); margin-bottom: 30px; }
+.home-page .home-offer-description { font-size: 15px; margin-bottom: 35px; }
+.home-page .home-offer .text-link { margin-top: auto; align-self: flex-start; }
+.home-page .home-offer:hover { transform: translateY(-5px); box-shadow: 0 12px 30px rgba(78,67,74,.06); }
+.home-page .projects-head { display: flex; align-items: baseline; justify-content: space-between; gap: 30px; }
+.home-page .projects-head .text-link { margin-top: 0; flex-shrink: 0; }
+.home-page .project-slot-image { border: 0; aspect-ratio: 4/5; }
+.project-slot-photo { width: 100%; height: 100%; position: absolute; inset: 0; object-fit: cover; transition: transform .8s ease; }
+.home-page .project-slot-hover { background: rgba(42,30,43,.6); }
+.project-slot a:hover .project-slot-photo { transform: scale(1.035); }
+.home-page .reviews-grid,.home-page .reviews-accent,.home-page .social-grid-bg,.home-page .contact-art { display: none; }
+.home-page .reviews-card { border-radius: 0; box-shadow: none; border: 0; border-block: 1px solid var(--line); background: transparent; }
+.home-page .reviews-card:hover { transform: none; box-shadow: none; }
+.home-page .reviews-card h2 { line-height: 1.3; }
+.home-page .social-panel { border-radius: 0; border: 0; border-top: 1px solid var(--line); background: transparent; box-shadow: none; padding-inline: 0; }
+.home-page .social-panel:hover { transform: none; box-shadow: none; }
+.home-page .social-links > a { border-radius: 0; box-shadow: none; }
+.home-page .social-links strong { font-weight: 400; }
+.home-page .contact-form { border-radius: 0; box-shadow: none; border: 0; border-top: 1px solid var(--pebble); background: rgba(168,154,147,.1); }
+.home-page .contact-form:hover { transform: none; box-shadow: none; }
+.home-page .contact-copy h2 { line-height: 1.3; }
+.home-page .faq-list details { border-radius: 0; background: transparent; border: 0; border-bottom: 1px solid var(--line); }
+.home-page .faq-list details:hover,.home-page .faq-list details[open] { transform: none; background: rgba(168,154,147,.07); box-shadow: none; }
+.home-page .faq-list summary { padding-block: 25px; font-size: 17px; }
+.subpage .offer-card { min-height: 570px; }
+.subpage .offer-card:focus-within { border-color: var(--slate); }
+.article-body p,.body-copy { color: #292329; }
+.article-body a:hover { text-decoration-color: var(--pebble); }
+.portfolio-page .card-meta { padding-left: 0; padding-right: 0; }
+.portfolio-page .card-meta h2 { font-size: clamp(23px,1.8vw,28px); }
+.contact-info-card { border-top: 1px solid var(--pebble); }
+.contact-info-card a:hover { text-decoration: underline; text-underline-offset: 5px; }
+@media(max-width:760px) {
+  .section { padding-left: 22px; padding-right: 22px; }
+  .home-page .hero-content { margin-inline: 22px; width: calc(100% - 44px); }
+  .home-page .hero-actions .btn { padding-inline: 17px; }
+  .home-page .projects.section { padding-inline: 0; }
+  .home-page .projects-head { align-items: flex-start; flex-direction: column; gap: 18px; }
+  .home-page .home-offer { min-height: 320px; padding: 32px 26px; }
+  .home-page .contact-form { padding: 30px 22px; }
+  .home-page .faq-list summary { font-size: 16px; }
+  .footer-top { padding-top: 45px; padding-bottom: 35px; }
+  .subpage .offer-card { min-height: 460px; }
+  .subpage-hero h1 { font-size: clamp(42px,12vw,64px); }
+  .contact-heading { padding-top: 55px; padding-bottom: 35px; }
+  .contact-route .contact-page { padding-top: 0; padding-bottom: 50px; }
+  .contact-info-grid { padding-top: 0; padding-bottom: 55px; }
+}
+@media(prefers-reduced-motion:reduce) {
+  html { scroll-behavior: auto; }
+  .btn,.btn span,.text-link span,.project-slot-photo { transition: none; }
+  .home-page .home-offer:hover,.project-slot a:hover .project-slot-photo { transform: none; }
+}
