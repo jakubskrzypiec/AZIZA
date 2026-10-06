@@ -1,0 +1,37 @@
+/* Framed projects, two columns at most; artworks keep their original proportions. */
+.portfolio-page .portfolio-section { padding-top: 65px; }
+.portfolio-page .portfolio-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 50px 34px; }
+.portfolio-page .portfolio-card { min-width: 0; border: 1px solid var(--line); padding: 14px; background: var(--cotton); transition: border-color .4s,box-shadow .4s; }
+.portfolio-page .portfolio-card:hover,.portfolio-page .portfolio-card:focus-within { border-color: var(--pebble); box-shadow: 0 14px 35px rgba(78,67,74,.08); }
+.portfolio-page .portfolio-card > a { display: block; height: 100%; }
+.portfolio-page .portfolio-image > img { height: clamp(300px,33vw,490px); width: 100%; object-fit: cover; }
+.portfolio-page .portfolio-card[data-category="Sztuka"] .portfolio-image > img { object-fit: contain; padding: 30px; }
+.portfolio-page .card-meta { min-height: 145px; padding: 26px 16px 20px; }
+.portfolio-page .card-meta h2 { font-size: clamp(23px,2vw,30px); line-height: 1.4; }
+.portfolio-logo-overlay { position: absolute; inset: 0; display: grid; place-items: center; background: rgba(42,30,43,.62); opacity: 0; transition: opacity .45s; }
+.portfolio-logo-overlay .aziza-logo { width: 220px; height: 98px; transform: translateY(12px); transition: transform .45s; }
+.portfolio-logo-overlay .aziza-logo img { filter: none; }
+.portfolio-page .portfolio-image .portfolio-logo-overlay img { width: 179.021%; height: auto; padding: 0; object-fit: initial; transform: none; }
+.portfolio-card:hover .portfolio-logo-overlay,.portfolio-card:focus-within .portfolio-logo-overlay { opacity: 1; }
+.portfolio-card:hover .portfolio-logo-overlay .aziza-logo,.portfolio-card:focus-within .portfolio-logo-overlay .aziza-logo { transform: translateY(0); }
+.portfolio-card > a:focus-visible { outline: 2px solid var(--slate); outline-offset: 5px; }
+.portfolio-interlude { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; margin: 25px 0; background: var(--slate); color: var(--cotton); }
+.gallery-scene { position: relative; overflow: hidden; aspect-ratio: 1; isolation: isolate; }
+.gallery-scene > img { position: absolute; inset: 0; height: 100%; width: 100%; object-fit: cover; }
+.gallery-scene > .gallery-artwork { inset: 11.25% auto auto 36%; width: 28.15%; height: 39%; object-fit: cover; }
+.gallery-interlude-copy { display: flex; flex-direction: column; justify-content: center; padding: 55px 45px; }
+.gallery-interlude-copy .eyebrow { color: var(--cotton); opacity: .65; }
+.gallery-interlude-copy h2 { color: inherit; font-size: clamp(30px,3vw,44px); line-height: 1.35; margin: 24px 0; }
+.gallery-interlude-copy p:not(.eyebrow) { color: inherit; opacity: .8; font-size: 15px; line-height: 1.9; max-width: 390px; }
+.gallery-text-link { align-self: flex-start; margin-top: 32px; padding-bottom: 8px; border-bottom: 1px solid rgba(248,246,241,.4); font-size: 13px; }
+.gallery-text-link span { margin-left: 35px; }
+@media(max-width:760px) {
+  .portfolio-page .portfolio-grid { grid-template-columns: 1fr; gap: 30px; }
+  .portfolio-page .portfolio-card { padding: 10px; }
+  .portfolio-page .portfolio-image > img { height: 370px; }
+  .portfolio-page .card-meta { min-height: 0; padding: 22px 12px; }
+  .portfolio-interlude { grid-template-columns: 1fr; margin: 15px 0; }
+  .gallery-scene { min-height: 0; }
+  .gallery-interlude-copy { padding: 36px 26px 45px; }
+}
+@media(prefers-reduced-motion:reduce) { .portfolio-page .portfolio-card,.portfolio-logo-overlay,.portfolio-logo-overlay .aziza-logo { transition: none; } }

@@ -9,7 +9,7 @@
 .subpage-hero { position: relative; isolation: isolate; overflow: hidden; min-height: 520px; margin-top: 94px; padding: 75px 5.5vw 65px; display: flex; align-items: flex-end; background: var(--slate); color: var(--cotton); }
 .subpage-hero-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; z-index: -3; }
 .subpage-hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg,rgba(38,26,38,.4),rgba(38,26,38,.04) 80%); z-index: -1; }
-.subpage-hero h1 { font-size: clamp(42px,4.6vw,70px); line-height: 1.15; letter-spacing: -.035em; margin: 0; max-width: 1100px; overflow-wrap: break-word; }
+.subpage-hero h1 { font-size: clamp(64px,8vw,112px); line-height: 1.1; letter-spacing: -.035em; margin: 0; max-width: 1100px; overflow-wrap: break-word; }
 .subpage-shadow-wall { position: absolute; left: 0; top: 0; width: 60%; height: 82%; overflow: hidden; mask-image: linear-gradient(180deg,#000 60%,transparent 100%); z-index: -2; pointer-events: none; }
 .subpage-shadow { width: 105%; height: 130%; position: absolute; left: -15%; top: -15%; color: #231426; filter: blur(9px); mix-blend-mode: multiply; transform-origin: 10% 100%; animation: subpage-light-motion 10s ease-in-out infinite alternate; }
 @keyframes subpage-light-motion { from { transform: translate(-25px,-6px) rotate(-3deg); opacity: .2; } to { transform: translate(40px,10px) rotate(4deg); opacity: .38; } }
@@ -26,7 +26,7 @@
   .subpage .site-header { height: 78px; padding-block: 8px; }
   .site-header .aziza-logo { width: 125px; height: 56px; }
   .subpage-hero { margin-top: 78px; min-height: 420px; padding: 55px 22px; }
-  .subpage-hero h1 { font-size: clamp(30px,8vw,44px); }
+  .subpage-hero h1 { font-size: clamp(54px,16vw,72px); }
   .subpage-hero-photo { object-position: 60% center; }
   .subpage-shadow-wall { width: 72%; }
   .page-meta { padding: 30px 22px; }
@@ -35,3 +35,12 @@
   .page-meta-with-image .intro-visual img { height: 310px; }
 }
 @media (prefers-reduced-motion:reduce) { .subpage-shadow { animation: none; } }
+
+/* Moving light on decorative interior scenes. */
+.scene-shadow-wall { position: absolute; inset: 0 auto 0 0; width: 68%; overflow: hidden; pointer-events: none; mask-image: linear-gradient(90deg,#000 65%,transparent); }
+.scene-shadow { position: absolute; width: 115%; height: 140%; left: -22%; top: -20%; color: #241929; filter: blur(8px); transform-origin: 0 100%; animation: scene-light-motion 9s ease-in-out infinite alternate; }
+@keyframes scene-light-motion { from { transform: translate(-25px,-10px) rotate(-5deg); opacity: .22; } to { transform: translate(55px,18px) rotate(6deg); opacity: .43; } }
+.ambient-scene:not(.is-in-view) .scene-shadow,.ambient-scene.is-paused .scene-shadow { animation-play-state: paused; }
+.subpage .scene-toggle { position: absolute; right: 22px; bottom: 20px; z-index: 2; border: 1px solid rgba(248,246,241,.5); background: rgba(38,26,38,.5); color: var(--cotton); padding: 10px 14px; font: 11px var(--sans); cursor: pointer; }
+.scene-toggle:focus-visible { outline: 2px solid var(--cotton); outline-offset: 4px; }
+@media(prefers-reduced-motion:reduce) { .scene-shadow { animation: none; opacity: .25; } .scene-toggle { display: none; } }

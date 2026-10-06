@@ -8,6 +8,9 @@ filters.forEach(button => button.addEventListener('click', () => {
     card.hidden = button.dataset.filter !== 'all' && card.dataset.category !== button.dataset.filter;
     if (!card.hidden) count++;
   });
+  const interlude = document.querySelector('.portfolio-interlude');
+  const visible = [...cards].filter(card => !card.hidden);
+  if (interlude && visible.length) visible[Math.min(visible.length > 6 ? 3 : 1, visible.length - 1)].after(interlude);
   const counter = document.getElementById('portfolio-count');
   if (counter) counter.textContent = `${count} ${count === 1 ? 'praca' : count >= 2 && count <= 4 ? 'prace' : 'prac'}`;
 }));
