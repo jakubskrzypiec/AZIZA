@@ -12,6 +12,12 @@ filters.forEach(button => button.addEventListener('click', () => {
   if (counter) counter.textContent = `${count} ${count === 1 ? 'praca' : count >= 2 && count <= 4 ? 'prace' : 'prac'}`;
 }));
 
+const portfolioType = new URLSearchParams(location.search).get('typ');
+if (portfolioType === 'obrazy' || portfolioType === 'realizacje') {
+  const initialFilter = portfolioType === 'obrazy' ? 'Sztuka' : 'Wnętrza';
+  [...filters].find(button => button.dataset.filter === initialFilter)?.click();
+}
+
 const galleryButtons = document.querySelectorAll('.gallery-trigger');
 if (galleryButtons.length) {
   const dialog = document.createElement('dialog');

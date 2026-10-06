@@ -4,10 +4,10 @@ const motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
 function updateAmbientButton(scene) {
   const paused = motionPreference.matches || scene.classList.contains('is-paused');
   const button = scene.querySelector('.ambient-toggle');
-  const subject = scene.classList.contains('coffee-scene') ? 'pary' : 'cienia';
+  const subject = 'cienia';
   button.setAttribute('aria-pressed', String(paused));
   button.setAttribute('aria-label', `${paused ? 'Wznów' : 'Wstrzymaj'} animację ${subject}`);
-  button.querySelector('span').textContent = paused ? '▶' : 'Ⅱ';
+  button.querySelector('span').textContent = paused ? 'Wznów ruch' : 'Zatrzymaj ruch';
   button.disabled = motionPreference.matches;
 }
 ambientScenes.forEach(scene => {
