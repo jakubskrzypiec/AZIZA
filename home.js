@@ -69,8 +69,8 @@ if (projectsCarousel) {
     holdUntil = performance.now() + 2500;
     projectsCarousel.scrollBy({ left: step() * direction, behavior: motionPreference.matches ? 'instant' : 'smooth' });
   };
-  previous.addEventListener('click', () => move(-1));
-  next.addEventListener('click', () => move(1));
+  previous?.addEventListener('click', () => move(-1));
+  next?.addEventListener('click', () => move(1));
   projectsCarousel.addEventListener('keydown', event => {
     if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
       event.preventDefault();

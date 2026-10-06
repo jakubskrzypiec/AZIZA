@@ -1,0 +1,37 @@
+/* Shared photographic opening for every subpage. */
+.subpage { --display: 'Manrope',Arial,sans-serif; --sans: 'Manrope',Arial,sans-serif; }
+.subpage h1,.subpage h2,.subpage h3 { font-weight: 300; font-style: normal; }
+.subpage .site-header { height: 94px; padding-block: 10px; }
+.aziza-logo { position: relative; display: block; width: 152px; height: 68px; overflow: hidden; }
+.aziza-logo img { position: absolute; width: 179.021%; max-width: none; height: auto; left: -41.771%; top: -62.982%; filter: brightness(0) drop-shadow(.35px 0 0 #4e434a) drop-shadow(-.35px 0 0 #4e434a); }
+.footer-brand .aziza-logo { width: 224px; height: 100px; }
+.footer-brand .aziza-logo img { filter: brightness(0) invert(1); }
+.subpage-hero { position: relative; isolation: isolate; overflow: hidden; min-height: 520px; margin-top: 94px; padding: 75px 5.5vw 65px; display: flex; align-items: flex-end; background: var(--slate); color: var(--cotton); }
+.subpage-hero-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; z-index: -3; }
+.subpage-hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg,rgba(38,26,38,.4),rgba(38,26,38,.04) 80%); z-index: -1; }
+.subpage-hero h1 { font-size: clamp(42px,4.6vw,70px); line-height: 1.15; letter-spacing: -.035em; margin: 0; max-width: 1100px; overflow-wrap: break-word; }
+.subpage-shadow-wall { position: absolute; left: 0; top: 0; width: 60%; height: 82%; overflow: hidden; mask-image: linear-gradient(180deg,#000 60%,transparent 100%); z-index: -2; pointer-events: none; }
+.subpage-shadow { width: 105%; height: 130%; position: absolute; left: -15%; top: -15%; color: #231426; filter: blur(9px); mix-blend-mode: multiply; transform-origin: 10% 100%; animation: subpage-light-motion 10s ease-in-out infinite alternate; }
+@keyframes subpage-light-motion { from { transform: translate(-25px,-6px) rotate(-3deg); opacity: .2; } to { transform: translate(40px,10px) rotate(4deg); opacity: .38; } }
+.ambient-scene:not(.is-in-view) .subpage-shadow { animation-play-state: paused; }
+.page-meta { padding-top: 36px; padding-bottom: 40px; border-bottom: 1px solid var(--line); }
+.page-meta .breadcrumbs { margin-bottom: 20px; }
+.page-meta .intro-lead { font-size: 17px; max-width: 780px; }
+.page-summary-title { font-family: var(--display); font-size: clamp(24px,2.6vw,36px); font-weight: 300; line-height: 1.3; margin-bottom: 22px; }
+.page-meta-with-image { display: grid; grid-template-columns: 1fr .65fr; gap: 7vw; align-items: center; }
+.page-meta-with-image .intro-visual { max-width: 380px; justify-self: end; }
+.page-meta-with-image .intro-visual img { height: 330px; }
+.subpage .page-footer,.subpage .site-footer,.subpage .footer-top,.subpage .footer-bottom { background: #000; }
+@media (max-width:760px) {
+  .subpage .site-header { height: 78px; padding-block: 8px; }
+  .site-header .aziza-logo { width: 125px; height: 56px; }
+  .subpage-hero { margin-top: 78px; min-height: 420px; padding: 55px 22px; }
+  .subpage-hero h1 { font-size: clamp(30px,8vw,44px); }
+  .subpage-hero-photo { object-position: 60% center; }
+  .subpage-shadow-wall { width: 72%; }
+  .page-meta { padding: 30px 22px; }
+  .page-meta-with-image { grid-template-columns: 1fr; gap: 30px; }
+  .page-meta-with-image .intro-visual { justify-self: start; width: 100%; max-width: 330px; }
+  .page-meta-with-image .intro-visual img { height: 310px; }
+}
+@media (prefers-reduced-motion:reduce) { .subpage-shadow { animation: none; } }
