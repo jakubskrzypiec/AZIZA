@@ -19,7 +19,9 @@ Teksty i fotografie pochodzą z publicznej strony https://www.aziza-suwiczak.pl/
 
 ## Dalsze poprawki
 
-Treść edytuje się bezpośrednio w odpowiednim pliku HTML. `style.css` to istniejący styl strony głównej; `pages.css` zawiera styl podstron, a `home.css` poprawki hero, sekcji „O mnie”, oferty i wybranych realizacji na stronie głównej. `script.js` odpowiada za dotychczasowe interakcje i przygotowanie wiadomości e-mail, a `pages.js` za filtry portfolio, galerie i wybór wariantu oferty.
+Treść edytuje się bezpośrednio w odpowiednim pliku HTML. `style.css` to istniejący styl strony głównej; `pages.css` zawiera styl podstron, a `home.css` poprawki hero, sekcji „O mnie”, oferty, wybranych realizacji i dwóch atmosferycznych przerywników na stronie głównej. `script.js` odpowiada za dotychczasowe interakcje i przygotowanie wiadomości e-mail, `pages.js` za filtry portfolio, galerie i wybór wariantu oferty, a `home.js` za sterowanie animacjami cienia i pary.
+
+Nagłówki strony głównej używają kroju Jost, teksty Questrial. Na podstronach pozostawiono dotychczasową typografię. Oryginalne logo dostarczone przez klienta jest w `assets/aziza-logo.png`, a sygnet w `assets/aziza-mark.png`. Obrazy `assets/interlude-light.png` oraz `assets/interlude-coffee.png` wygenerowano jako sceny atmosferyczne, nie jako realizacje pracowni; szczegóły i prompty znajdują się w `IMAGE-PROMPTS.md`. Para oraz cień to osobne warstwy SVG/CSS. Animacje zatrzymują się poza ekranem, można je wstrzymać przyciskiem, a ustawienie systemowe ograniczenia ruchu wyłącza je automatycznie.
 
 Formularz nie ma serwera wysyłającego wiadomości. Otwiera program pocztowy użytkownika z uzupełnionym zapytaniem. Przed publikacją można podłączyć docelową usługę wysyłki.
 

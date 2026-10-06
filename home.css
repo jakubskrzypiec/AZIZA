@@ -1,4 +1,11 @@
 /* Home page refinements. Other pages keep their existing layout. */
+.home-page { --display: 'Jost', Arial, sans-serif; }
+.home-page h1,.home-page h2,.home-page h3 { font-weight: 300; letter-spacing: -.035em; }
+.home-page .site-header { height: 94px; padding-block: 10px; }
+.aziza-logo { position: relative; display: block; width: 152px; height: 68px; overflow: hidden; }
+.aziza-logo img { position: absolute; width: 179.021%; max-width: none; height: auto; left: -41.771%; top: -62.982%; filter: brightness(0) drop-shadow(.35px 0 0 #4e434a) drop-shadow(-.35px 0 0 #4e434a); }
+.footer-brand .aziza-logo { width: 224px; height: 100px; }
+.footer-brand .aziza-logo img { filter: brightness(0) invert(1); }
 .hero-content { width: min(1100px,calc(100% - 8.6vw)); }
 .hero-content::before,.hero-actions::before { content: none; display: none; }
 .hero-content h1 { line-height: 1.12; padding-block: .08em; margin-bottom: 24px; }
@@ -42,6 +49,40 @@ body:not(.is-ready) .hero-content h1,body.is-ready .hero-content h1 { clip-path:
 .selected-project-featured .selected-project-caption h3 { font-size: clamp(26px,2.6vw,38px); }
 .projects > .text-link { margin-top: 42px; }
 
+/* Two generated stills, with independent animated shadow and steam layers. */
+.coffee-interlude { display: grid; grid-template-columns: 1fr .88fr; gap: 9vw; align-items: center; background: var(--cotton); padding-top: 60px; padding-bottom: 100px; }
+.coffee-scene { position: relative; aspect-ratio: 1; overflow: hidden; background: var(--slate); }
+.coffee-photo { width: 100%; height: 100%; object-fit: cover; }
+.coffee-copy { max-width: 560px; }
+.coffee-copy h2 { font-size: clamp(42px,4.4vw,66px); line-height: 1.08; margin: 0 0 28px; }
+.coffee-copy > p:not(.eyebrow) { max-width: 450px; font-size: 18px; line-height: 1.85; color: #111; }
+.coffee-copy .eyebrow { color: var(--slate); }
+.coffee-steam { position: absolute; width: 22%; height: 35%; left: 39%; bottom: 47.4%; overflow: visible; pointer-events: none; }
+.steam-trail { fill: none; stroke: #f8f6f1; stroke-width: 6; stroke-linecap: round; filter: blur(4px); opacity: 0; transform-origin: 50% 100%; animation: rising-steam 7s ease-in-out infinite; }
+.steam-trail-b { animation-delay: -2.3s; stroke-width: 9; }
+.steam-trail-c { animation-delay: -4.6s; stroke-width: 4; }
+@keyframes rising-steam {
+  0% { opacity: 0; transform: translate(0,24px) scale(.8,.85); }
+  22% { opacity: .27; }
+  60% { opacity: .16; transform: translate(8px,-22px) scale(1.06,1.08); }
+  100% { opacity: 0; transform: translate(-5px,-65px) scale(1.15,1.16); }
+}
+.light-interlude { position: relative; overflow: hidden; isolation: isolate; min-height: 540px; height: clamp(540px,43vw,720px); display: flex; align-items: center; background: var(--slate); color: var(--cotton); }
+.light-interlude-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; z-index: -3; }
+.botanical-shadow { position: absolute; left: -8%; top: -15%; width: 75%; height: 125%; color: #211621; opacity: .16; filter: blur(13px); mix-blend-mode: multiply; transform-origin: 20% 100%; animation: travelling-shadow 24s ease-in-out infinite alternate; z-index: -2; pointer-events: none; }
+@keyframes travelling-shadow {
+  0% { transform: translate(-26px,-6px) rotate(-4deg) scale(1.03); opacity: .13; }
+  55% { opacity: .22; }
+  100% { transform: translate(42px,16px) rotate(3deg) scale(1.08); opacity: .16; }
+}
+.light-interlude-shade { position: absolute; inset: 0; background: linear-gradient(90deg,rgba(34,23,35,.45),rgba(34,23,35,.12) 50%,transparent 80%); z-index: -1; }
+.light-interlude-copy { margin: 0 5.5vw; max-width: 850px; }
+.light-interlude-copy h2 { font-size: clamp(44px,5.5vw,82px); line-height: 1.06; margin: 0 0 25px; color: var(--cotton); }
+.light-interlude-copy > p:last-child { font-size: 17px; margin: 0; }
+.ambient-toggle { position: absolute; right: 20px; bottom: 20px; z-index: 3; width: 36px; height: 36px; display: grid; place-items: center; padding: 0; border: 1px solid rgba(248,246,241,.45); border-radius: 50%; color: var(--cotton); background: rgba(44,32,43,.22); cursor: pointer; font-size: 12px; backdrop-filter: blur(5px); }
+.ambient-toggle:hover { background: rgba(44,32,43,.65); }
+.ambient-scene:not(.is-in-view) .steam-trail,.ambient-scene:not(.is-in-view) .botanical-shadow,.ambient-scene.is-paused .steam-trail,.ambient-scene.is-paused .botanical-shadow { animation-play-state: paused; }
+
 @media (max-width: 1000px) {
   .home-offers { gap: 16px; }
   .home-offer { padding: 28px 22px; }
@@ -51,6 +92,8 @@ body:not(.is-ready) .hero-content h1,body.is-ready .hero-content h1 { clip-path:
   .selected-project-image img { height: 230px; }
 }
 @media (max-width: 760px) {
+  .home-page .site-header { height: 78px; padding-block: 8px; }
+  .site-header .aziza-logo { width: 125px; height: 56px; }
   .hero-content { width: calc(100% - 36px); margin-left: 18px; margin-right: 18px; }
   .hero-content h1 { font-size: clamp(36px,10vw,56px); line-height: 1.12; }
   .about .about-copy > p:not(.eyebrow) { font-size: 17px; line-height: 1.8; }
@@ -68,7 +111,19 @@ body:not(.is-ready) .hero-content h1,body.is-ready .hero-content h1 { clip-path:
   .selected-project-featured .selected-project-image img { position: static; height: auto; aspect-ratio: 4/5; }
   .selected-project-featured .selected-project-caption h3 { font-size: 27px; }
   .selected-project-caption { gap: 15px; }
+  .coffee-interlude { grid-template-columns: 1fr; gap: 38px; padding-top: 25px; padding-bottom: 70px; }
+  .coffee-copy h2 { font-size: 44px; }
+  .coffee-copy > p:not(.eyebrow) { font-size: 17px; }
+  .light-interlude { height: 580px; min-height: 580px; align-items: flex-end; }
+  .light-interlude-photo { object-position: 58% center; }
+  .light-interlude-copy { margin: 0 22px 74px; }
+  .light-interlude-copy h2 { font-size: clamp(40px,10.5vw,60px); }
+  .light-interlude-shade { background: linear-gradient(0deg,rgba(34,23,35,.68),rgba(34,23,35,.08) 80%); }
+  .botanical-shadow { width: 130%; left: -40%; }
 }
 @media (prefers-reduced-motion: reduce) {
   .selected-project-image img,.selected-project-open { transition: none; }
+  .steam-trail,.botanical-shadow { animation: none; }
+  .steam-trail { opacity: 0; }
+  .ambient-toggle { display: none; }
 }
