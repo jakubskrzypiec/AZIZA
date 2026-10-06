@@ -10,12 +10,12 @@ Otwórz `index.html` w przeglądarce lub udostępnij katalog przez dowolny serwe
 
 - Sekcja „O mnie” na stronie głównej; osobną podstronę usunięto.
 - Oferta: cztery pionowe karty bez zdjęć (wnętrza, domy, budynki usługowe, obrazy), tabela porównująca warianty Dorycki, Joński i Koryncki oraz trzy podstrony usług.
-- Cennik: Dorycki, Joński, Koryncki — zakresy z oryginalnej strony, wycena indywidualna.
+- Podstronę Cennik usunięto; zakresy wariantów z oryginalnej strony są w Ofercie.
 - Portfolio: 24 prace, w tym 5 projektów wnętrz i 19 obrazów. Każda praca ma własną podstronę i galerię.
-- Blog: 4 pełne artykuły z oryginalnymi datami i autorstwem.
+- Blog: 4 nowe poradniki bez zdjęć; starsze artykuły zachowano pod dotychczasowymi adresami.
 - Kontakt z telefonem, adresem, linkiem do mapy i formularzem przygotowującym e-mail.
 
-Teksty i fotografie pochodzą z publicznej strony https://www.aziza-suwiczak.pl/ (pobrane 6 października 2026). Spis źródeł jest w `content-sources.json`. Zdjęcia znajdują się lokalnie w `assets/`.
+Starsze teksty i fotografie pochodzą z publicznej strony https://www.aziza-suwiczak.pl/ (pobrane 6 października 2026). Spis źródeł jest w `content-sources.json`. Zdjęcia znajdują się lokalnie w `assets/`.
 
 ## Dalsze poprawki
 
@@ -23,7 +23,7 @@ Treść edytuje się bezpośrednio w odpowiednim pliku HTML. `style.css` to istn
 
 Strona główna używa kroju Manrope: lekkie nagłówki i regularny tekst, bez kursywy. Hero zajmuje cały ekran i zawiera tylko hasło oraz dwa przyciski, z animowanym cieniem ograniczonym do fioletowej ściany. Sekcja „O mnie” ma mniejsze miejsce na zdjęcia. Trzy karty „Oferta 1–3” pozostawiono jako miejsca na tekst; po najechaniu unoszą się i zmieniają cień. Karuzela pod nagłówkiem „Wybrane realizacje” zawiera pięć powiększonych miejsc na realizacje i płynnie przewija się w pętli. Obsługuje zatrzymanie, logo po najechaniu lub ustawieniu fokusu, klawiaturę, przeciąganie myszą i przewijanie dotykiem. Dolne strzałki usunięto. Automatyczny ruch zatrzymuje się przy najechaniu, interakcji, poza ekranem i przy ustawieniu ograniczenia ruchu. Stopka jest jednolicie czarna.
 
-Podstrony mają wspólny fotograficzny hero z animowanym cieniem i tytułem danej strony, np. „Oferta”. Typografia i logo odpowiadają stronie głównej. Opisy, daty artykułów, zdjęcia i pozostałe treści znajdują się pod hero. Styl tej części jest w `subpage-hero.css`; animację obsługuje `home.js`. Wygenerowany obraz jest w `assets/subpage-hero.png`, a jego prompt w `SUBPAGE-HERO-PROMPT.md`. Nagłówki wszystkich podstron korzystają z tej samej powiększonej skali typografii. Osobny arkusz `offer.css` odpowiada za karty, tabelę i fotograficzne zaproszenie do kontaktu na Ofercie. `portfolio.css` odpowiada za galerię w dwóch kolumnach (na telefonie jednej), ramki z podpisami, logo po najechaniu lub ustawieniu fokusu i przerywnik wnętrza z obrazem „Cisza we mnie”. Filtry obejmują Wszystko, Wnętrza i Obrazy. Przerywnik zmienia położenie wraz z filtrem, a jego cień ma sterowanie pauzą i respektuje ograniczenie ruchu. Układ porównania nawiązuje do strony Elephant, a zakresy wariantów pochodzą z oryginalnego cennika AZIZA.
+Podstrony mają wspólny fotograficzny hero z animowanym cieniem i tytułem danej strony, np. „Oferta”. Typografia i logo odpowiadają stronie głównej. Opisy, daty artykułów, zdjęcia i pozostałe treści znajdują się pod hero. Styl tej części jest w `subpage-hero.css`; animację obsługuje `home.js`. Wygenerowany obraz jest w `assets/subpage-hero.png`, a jego prompt w `SUBPAGE-HERO-PROMPT.md`. Nagłówki wszystkich podstron korzystają z tej samej powiększonej skali typografii. Osobny arkusz `offer.css` odpowiada za karty, tabelę i fotograficzne zaproszenie do kontaktu na Ofercie. `portfolio.css` odpowiada za galerię w dwóch kolumnach (na telefonie jednej), podpisy bez ramek, logo po najechaniu lub ustawieniu fokusu i przerywnik wnętrza z obrazem „Cisza we mnie”. Filtry obejmują Wszystko, Wnętrza i Obrazy. Przerywnik zmienia położenie wraz z filtrem, a jego cień ma sterowanie pauzą i respektuje ograniczenie ruchu. Układ porównania nawiązuje do strony Elephant, a zakresy wariantów pochodzą z oryginalnego cennika AZIZA.
 
 Oryginalne logo dostarczone przez klienta jest w `assets/aziza-logo.png`, a sygnet w `assets/aziza-mark.png`. Obrazy `assets/interlude-light.png` oraz `assets/interlude-art-room.png` wygenerowano jako sceny atmosferyczne, nie jako realizacje pracowni; szczegóły i prompty znajdują się w `IMAGE-PROMPTS.md`. Obraz „Cisza we mnie” jest oryginalną fotografią pracy artystki, nałożoną na wygenerowaną scenę wnętrza. Cień jest osobną warstwą SVG/CSS; zatrzymuje się poza ekranem, można go wstrzymać przyciskiem, a ustawienie systemowe ograniczenia ruchu wyłącza animację automatycznie. Linki „Realizacje” i „Obrazy” otwierają portfolio z odpowiednim filtrem. Sociale znajdują się pod sekcją kontaktową, przed stopką.
 
@@ -31,4 +31,9 @@ Formularz nie ma serwera wysyłającego wiadomości. Otwiera program pocztowy u�
 
 ## Sprawdzenie
 
-Sprawdzono kompletność lokalnych linków i zdjęć, błędy JavaScript, układ przy szerokościach 320/390/800/1440 px, nawigację mobilną, filtry portfolio, otwieranie i zamykanie galerii oraz przeniesienie wariantu cennika do formularza kontaktowego. Po usunięciu podstrony „O mnie” projekt zawiera 37 stron. Nowe karty i tabelę zweryfikowano również na telefonie. Wszystkie sprawdzenia zakończyły się powodzeniem.
+Sprawdzono kompletność lokalnych linków i zdjęć, błędy JavaScript, układ przy szerokościach 320/390/800/1440 px, nawigację mobilną, filtry portfolio, otwieranie i zamykanie galerii oraz przeniesienie wariantu cennika do formularza kontaktowego. Po usunięciu podstrony „O mnie” projekt zawierał 37 stron (obecnie 40 po zmianie bloga i usunięciu cennika). Nowe karty i tabelę zweryfikowano również na telefonie. Wszystkie sprawdzenia zakończyły się powodzeniem.
+
+
+## Aktualizacja bloga i kontaktu
+
+Usunięto osobną podstronę Cennik; warianty współpracy pozostają w Ofercie. Nawigacja używa nazwy Kontakt. Blog pokazuje cztery nowe poradniki bez fotografii, z osobnymi adresami, tytułami, opisami meta, spisem treści, linkami wewnętrznymi i danymi BlogPosting. Teksty są nowymi propozycjami redakcyjnymi AZIZA, a nie przedrukami ani przypisanymi Izabeli wypowiedziami. Starsze artykuły zachowano pod ich dotychczasowymi adresami. Nie ustawiono canonical ani sitemap na domenę produkcyjną, ponieważ repo jest nadal podglądem przebudowy. Kontakt ma odświeżony układ, zakres Obraz / malarstwo i sociale pod formularzem. Portfolio jest bez ramek i tekstu przerywnika; podświetlenie klawiaturą używa focus-visible zamiast utrzymującego się focus-within.

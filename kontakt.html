@@ -11,8 +11,9 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="pages.css">
 <link rel="stylesheet" href="subpage-hero.css">
+<link rel="stylesheet" href="contact.css">
 </head>
-<body class="subpage" id="top">
+<body class="subpage contact-route" id="top">
 <a class="skip-link" href="#main">Przejdź do treści</a>
 <div class="scroll-progress" aria-hidden="true">
 <span>
@@ -33,9 +34,8 @@
     <nav class="main-nav" aria-label="Nawigacja główna">
 <a href="uslugi.html">Oferta</a>
 <a href="portfolio.html">Portfolio</a>
-<a href="cennik.html">Cennik</a>
 <a href="blog.html">Blog</a>
-<a href="kontakt.html" aria-current="page" class="nav-cta">Porozmawiajmy</a>
+<a href="kontakt.html" aria-current="page" class="nav-cta">Kontakt</a>
 </nav>
   </header>
 <main id="main">
@@ -64,10 +64,10 @@
 <a href="index.html">AZIZA</a>
 <span aria-hidden="true">/</span>
 <span>Kontakt</span>
-</nav><p class="page-summary-title">Opowiedz mi<br>o swoim projekcie.</p><p class="intro-lead">A ja przygotuję dla Ciebie rozwiązanie szyte na miarę.</p></div></section>
+</nav><p class="page-summary-title">Opowiedz mi<br>o swoim projekcie.</p><p class="intro-lead">Wnętrze, dom, przestrzeń usługowa czy obraz — zacznijmy od tego, czego potrzebujesz.</p></div></section>
 <section class="section contact-page">
 <div class="contact-details">
-<p class="eyebrow">POROZMAWIAJMY</p>
+<p class="eyebrow">BEZPOŚREDNI KONTAKT</p><h2>Porozmawiajmy<br>o Twoich pomysłach.</h2><p class="contact-intro">Napisz, zadzwoń lub przygotuj wiadomość przez formularz. Podaj rodzaj projektu, lokalizację i planowany termin — pomoże to rozpocząć rozmowę.</p>
 <a class="contact-large" href="tel:+48574278597">+48 574 278 597 ↗</a>
 <a class="contact-email" href="mailto:izabela.suwiczak@aziza-suwiczak.pl">izabela.suwiczak@aziza-suwiczak.pl ↗</a>
 <div class="address-block">
@@ -77,21 +77,21 @@
 </div>
 <p>NIP 6981862921</p>
 </div>
-<form class="contact-form reveal delay-1" id="contact-form">
-          <div class="form-grid">
+<form class="contact-form" id="contact-form">
+          <h2>Napisz do pracowni</h2><p class="contact-form-intro">Kilka informacji na dobry początek.</p><div class="form-grid">
             <label>
               <span>Imię i nazwisko</span>
-              <input type="text" name="name" placeholder="Twoje imię" required>
+              <input type="text" name="name" autocomplete="name" placeholder="Twoje imię" required>
             </label>
 
             <label>
               <span>E-mail</span>
-              <input type="email" name="email" placeholder="twoj@email.pl" required>
+              <input type="email" name="email" autocomplete="email" placeholder="twoj@email.pl" required>
             </label>
 
             <label>
               <span>Telefon</span>
-              <input type="tel" name="phone" placeholder="+48 000 000 000">
+              <input type="tel" name="phone" autocomplete="tel" placeholder="+48 000 000 000">
             </label>
 
             <label>
@@ -100,13 +100,13 @@
                 <option>Projekt wnętrza</option>
                 <option>Projekt domu</option>
                 <option>Budynek usługowy</option>
-                <option>Inne</option>
+                <option>Obraz / malarstwo</option><option>Inne</option>
               </select>
             </label>
 
             <label class="full">
               <span>Wiadomość</span>
-              <textarea name="message" rows="6" placeholder="Napisz krótko, czego dotyczy projekt." required>
+              <textarea name="message" rows="6" placeholder="Co planujesz? Podaj lokalizację, przybliżoną powierzchnię lub tytuł obrazu." required>
 </textarea>
             </label>
           </div>
@@ -116,7 +116,7 @@
         <p class="form-note" role="status">Formularz otworzy Twój program pocztowy z gotową wiadomością. Możesz też napisać bezpośrednio na adres pracowni.</p>
 </form>
 </section>
-</main>
+<section class="section contact-socials" aria-label="AZIZA w mediach społecznościowych"><p class="eyebrow">BĄDŹMY W KONTAKCIE</p><a href="https://www.instagram.com/aziza.architektura/" target="_blank" rel="noopener">Instagram <span aria-hidden="true">↗</span></a><a href="https://www.facebook.com/AZIZA.Pracownia.Architektoniczna/" target="_blank" rel="noopener">Facebook <span aria-hidden="true">↗</span></a></section></main>
 <div class="page-footer">
 <footer class="site-footer">
         <div class="footer-top">
@@ -131,9 +131,8 @@
 <span>NAWIGACJA</span>
 <a href="uslugi.html">Oferta</a>
 <a href="portfolio.html">Portfolio</a>
-<a href="cennik.html">Cennik</a>
 <a href="blog.html">Blog</a>
-<a href="kontakt.html">Porozmawiajmy</a>
+<a href="kontakt.html">Kontakt</a>
 </nav>
 
           <div class="footer-contact">
