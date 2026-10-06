@@ -1,0 +1,225 @@
+{
+  "retrieved": "2026-10-06",
+  "website": "https://www.aziza-suwiczak.pl/",
+  "pages": [
+    "cennik",
+    "o-mnie",
+    "portfolio",
+    "project-baletnica-w-lesie-snow",
+    "project-bieg-przez-pustynie-snow",
+    "project-cisza-we-mnie",
+    "project-dom-pod-blekitnymi-okiennicami",
+    "project-dotyk-wiosny",
+    "project-letni-dzien-w-ogrodach",
+    "project-milczenie-nenufarow",
+    "project-oblicze-nieodkryte",
+    "project-okno-wspomnien",
+    "project-pamiec-ornamentu",
+    "project-pod-lukiem-wspomnien",
+    "project-projekt-czesci-wspolnej-w-zabudowie-wielorodzinnej",
+    "project-projekt-koncepcyjny-holu-w-kancelarii",
+    "project-projekt-malej-lazienki",
+    "project-projekt-sypialnia-z-elementami-industrialnymi",
+    "project-realizacja-lazienek-w-domu-jednorodzinnym",
+    "project-spacer-ku-czerwonym-murom",
+    "project-spacer-ku-katedrze",
+    "project-taniec-swiatla-i-cienia",
+    "project-taniec-wewnetrznego-ognia",
+    "project-taniec-wiatru",
+    "project-w-polcieniu-mysli",
+    "project-wedrowka-przez-lawendowe-sny",
+    "project-wenecki-sen",
+    "projektowanie-budynkow-uslugowych",
+    "projektowanie-domow-jednorodzinnych-i-wielorodzinnych",
+    "projektowanie-wnetrz",
+    "uslugi"
+  ],
+  "portfolio": [
+    {
+      "slug": "projekt-malej-lazienki",
+      "title": "Projekt Małej Łazienki",
+      "category": "Wnętrza",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2023/10/JASNE-1.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/projekt-malej-lazienki/"
+    },
+    {
+      "slug": "projekt-sypialnia-z-elementami-industrialnymi",
+      "title": "Projekt Sypialni Z Elementami Industrialnymi.",
+      "category": "Wnętrza",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2023/10/PROJ.-SYPIALNI-MODERN_AZIZIA.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/projekt-sypialnia-z-elementami-industrialnymi/"
+    },
+    {
+      "slug": "projekt-czesci-wspolnej-w-zabudowie-wielorodzinnej",
+      "title": "Projekt Części Wspólnej W Zabudowie Wielorodzinnej",
+      "category": "Wnętrza",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2023/10/Czesc_wspolna_0_2_AZIZA.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/projekt-czesci-wspolnej-w-zabudowie-wielorodzinnej/"
+    },
+    {
+      "slug": "realizacja-lazienek-w-domu-jednorodzinnym",
+      "title": "Realizacja Łazienek W Domu Jednorodzinnym",
+      "category": "Wnętrza",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2023/10/Projekt_Lazieniki_cegla_1_AZIZA-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/realizacja-lazienek-w-domu-jednorodzinnym/"
+    },
+    {
+      "slug": "projekt-koncepcyjny-holu-w-kancelarii",
+      "title": "Projekt Koncepcyjny Holu W Kancelarii",
+      "category": "Wnętrza",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2023/10/PROJEKT-HOL_AZIZA2.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/projekt-koncepcyjny-holu-w-kancelarii/"
+    },
+    {
+      "slug": "baletnica-w-lesie-snow",
+      "title": "Baletnica w lesie snów",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Baletnica-w-lesie-snow.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/baletnica-w-lesie-snow/"
+    },
+    {
+      "slug": "milczenie-nenufarow",
+      "title": "Milczenie nenufarów",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Milczenie-nenufarow-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/milczenie-nenufarow/"
+    },
+    {
+      "slug": "taniec-wewnetrznego-ognia",
+      "title": "Taniec wewnętrznego ognia",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Taniec-wewnetrznego-ognia-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/taniec-wewnetrznego-ognia/"
+    },
+    {
+      "slug": "wedrowka-przez-lawendowe-sny",
+      "title": "Wędrówka przez lawendowe sny",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Wedrowka-przez-lawendowe-sny-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/wedrowka-przez-lawendowe-sny/"
+    },
+    {
+      "slug": "okno-wspomnien",
+      "title": "Okno wspomnień",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Okno-wspomnien-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/okno-wspomnien/"
+    },
+    {
+      "slug": "pamiec-ornamentu",
+      "title": "Pamięć ornamentu",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Pamiec-ornamentu.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/pamiec-ornamentu/"
+    },
+    {
+      "slug": "bieg-przez-pustynie-snow",
+      "title": "Bieg przez pustynię snów",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Bieg-przez-pustynie-snow-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/bieg-przez-pustynie-snow/"
+    },
+    {
+      "slug": "dotyk-wiosny",
+      "title": "Dotyk wiosny",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Dotyk-wiosny-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/dotyk-wiosny/"
+    },
+    {
+      "slug": "spacer-ku-czerwonym-murom",
+      "title": "Spacer ku czerwonym murom",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Spacer-ku-czerwonym-murom.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/spacer-ku-czerwonym-murom/"
+    },
+    {
+      "slug": "cisza-we-mnie",
+      "title": "Cisza we mnie",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Cisza-we-mnie.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/cisza-we-mnie/"
+    },
+    {
+      "slug": "letni-dzien-w-ogrodach",
+      "title": "Letni dzień w ogrodach",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Letni-dzien-w-ogrodach-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/letni-dzien-w-ogrodach/"
+    },
+    {
+      "slug": "w-polcieniu-mysli",
+      "title": "W półcieniu myśli",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/W-polcieniu-mysli-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/w-polcieniu-mysli/"
+    },
+    {
+      "slug": "taniec-swiatla-i-cienia",
+      "title": "Taniec światła i cienia",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Taniec-swiatla-i-cienia.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/taniec-swiatla-i-cienia/"
+    },
+    {
+      "slug": "pod-lukiem-wspomnien",
+      "title": "Pod łukiem wspomnień",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Pod-lukiem-wspomnien.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/pod-lukiem-wspomnien/"
+    },
+    {
+      "slug": "spacer-ku-katedrze",
+      "title": "Spacer ku katedrze",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Spacer-ku-katedrze-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/spacer-ku-katedrze/"
+    },
+    {
+      "slug": "wenecki-sen",
+      "title": "Wenecki sen",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Wenecki-sen.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/wenecki-sen/"
+    },
+    {
+      "slug": "dom-pod-blekitnymi-okiennicami",
+      "title": "Dom pod błękitnymi okiennicami",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Dom-pod-blekitnymi-okiennicami.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/dom-pod-blekitnymi-okiennicami/"
+    },
+    {
+      "slug": "taniec-wiatru",
+      "title": "Taniec wiatru",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Taniec-wiatru-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/taniec-wiatru/"
+    },
+    {
+      "slug": "oblicze-nieodkryte",
+      "title": "Oblicze nieodkryte",
+      "category": "Sztuka",
+      "image": "https://www.aziza-suwiczak.pl/wp-content/uploads/2025/05/Oblicze-nieodkryte-scaled.jpg",
+      "source": "https://www.aziza-suwiczak.pl/portfolio/oblicze-nieodkryte/"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Jesienne wnętrza i design: Jak stworzyć ciepłą i przytulną atmosferę w domu",
+      "url": "https://www.aziza-suwiczak.pl/2023/10/14/jesienne-wnetrza-i-design/"
+    },
+    {
+      "title": "Projektowanie Wnętrza – perspektywa architekta",
+      "url": "https://www.aziza-suwiczak.pl/2023/01/15/projektowanie-wnetrza-perspektywa-architekta/"
+    },
+    {
+      "title": "Praktyczne wskazówki dla domowników – Perspektywa Pani Architekt",
+      "url": "https://www.aziza-suwiczak.pl/2020/10/15/praktyczne-wskazowki-dla-domownikow/"
+    },
+    {
+      "title": "Style w projektach wnętrz – charakterystyka i zastosowanie",
+      "url": "https://www.aziza-suwiczak.pl/2020/10/15/style-w-projektach-wnetrz/"
+    }
+  ]
+}
