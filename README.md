@@ -41,3 +41,5 @@ Usunięto osobną podstronę Cennik; warianty współpracy pozostają w Ofercie.
 ## Osobne galerie
 
 Pozycję Portfolio zastąpiono w nagłówku i stopce stronami Wnętrza (`wnetrza.html`, 5 projektów) oraz Obrazy (`obrazy.html`, 19 prac). Każda galeria ma własny hero, opis i siatkę dwóch kolumn bez filtrów i przerywnika. Linki ze strony głównej, oferty, artykułów i podstron realizacji kierują do właściwej galerii. `portfolio.html` jest wyłącznie przekierowaniem zgodnym ze starymi adresami, również z parametrem `typ=obrazy`.
+
+Kontakt: wyśrodkowany nagłówek „Porozmawiajmy o Twoich pomysłach”, większy formularz (do 960 px) i cztery kafelki danych pod nim. Link Kontakt w całej górnej nawigacji jest zwykłym linkiem, bez ramki.
