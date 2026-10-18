@@ -63,3 +63,7 @@ Hero 56 podstron wykorzystuje teraz assets/home-v4-hero.webp, dopasowane do wnę
 ## Oferta i portfolio
 
 Główna prezentuje cztery obszary oferty: Wnętrza / Domy / Budynki usługowe / Obrazy. Portfolio (`portfolio.html`) jest stroną wyboru trzech galerii: Wnętrza, Architektura i Obrazy. Nowa architektura.html zawiera pięć projektów z materiałów klientki; domy i budynki usługowe pokazano razem. Rozwijane menu Portfolio działa przyciskiem na komputerze i telefonie, obsługuje Escape i zamknięcie po kliknięciu poza nim. Wybrane projekty na głównej mieszają wnętrza i architekturę; obrazy pozostają osobną sekcją.
+
+## Wspólny system animacji
+
+`premium-motion.js` i `premium-motion.css` zastępują poprzednie efekty wejścia jednym systemem: wejścia treści 700–1000 ms, opóźnienia kart co 75 ms, odsłonięcie i delikatne przybliżenie zdjęć na komputerze, osobna sekwencja hero oraz wspólne tempo mikrointerakcji. Animacje uruchamiają się raz, przy wejściu w kadr; nie przejmują przewijania. Karuzela i animowane cienie pozostają niezależne. Na telefonie wejścia są krótsze, bez maskowania zdjęć. Focus klawiaturą natychmiast odsłania element, powrót z cache pokazuje treść bez ponownego ukrywania, a zmiana prefers-reduced-motion przerywa trwające efekty. Bez JavaScript treść pozostaje widoczna. Nie dodano bibliotek ani zależności.

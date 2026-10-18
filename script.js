@@ -16,19 +16,8 @@ navLinks.forEach(link => link.addEventListener('click', () => {
 
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-if ('IntersectionObserver' in window && !reducedMotion) {
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (!entry.isIntersecting) return;
-      entry.target.classList.add('visible');
-      observer.unobserve(entry.target);
-    });
-  }, { threshold: .1, rootMargin: '0px 0px -30px' });
-
-  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-} else {
-  document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
-}
+// Entrances are handled by premium-motion.js; content stays visible without it.
+document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
 
 const details = [...document.querySelectorAll('.faq details')];
 

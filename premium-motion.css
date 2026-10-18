@@ -1,0 +1,39 @@
+:root { --motion-ease: cubic-bezier(.22,1,.36,1); --motion-hover: 550ms; }
+/* Retire the previous reveal effects so the shared sequence is applied once. */
+.reveal,.reveal.visible { opacity: 1; transform: none; filter: none; transition: none !important; }
+.home-page:not(.is-ready) .hero-content h1,.home-page.is-ready .hero-content h1,
+.home-page:not(.is-ready) .hero-actions,.home-page.is-ready .hero-actions {
+  opacity: 1; transform: none; clip-path: none; transition: none !important;
+}
+.home-page:not(.is-ready) .hero-bg { opacity: 1; }
+.reveal:is(.home-offer,.offer-card,.portfolio-card,.portfolio-category,.blog-card,.contact-info-card) {
+  transition: transform var(--motion-hover) var(--motion-ease),background var(--motion-hover) var(--motion-ease),border-color var(--motion-hover) var(--motion-ease),box-shadow var(--motion-hover) var(--motion-ease) !important;
+}
+.motion-await { opacity: 0; translate: 0 34px; }
+.reveal.motion-await { opacity: 0; }
+/* Entrances use individual translate/scale so hover transforms remain independent. */
+.btn,.contact-submit,.home-offer,.offer-card,.portfolio-card,.portfolio-category,.blog-card,.contact-info-card {
+  transition-timing-function: var(--motion-ease);
+  transition-duration: var(--motion-hover);
+}
+.btn,.contact-submit { transition-property: background,color,border-color,translate; }
+@media(hover:hover) and (pointer:fine) {
+  .btn:hover,.contact-submit:hover { translate: 0 -2px; }
+  .portfolio-category-image img,.home-art-image img,.portfolio-image > img,.client-project-grid img { transition: transform 1100ms var(--motion-ease); }
+  .portfolio-logo-overlay,.home-art-hover { transition: opacity 650ms var(--motion-ease); }
+  .home-page .home-offer:hover,.offer-page .offer-card:hover { transform: translateY(-5px); }
+}
+.text-link span,.btn span,.social-arrow { transition: transform var(--motion-hover) var(--motion-ease); }
+.portfolio-nav-toggle span { transition: transform 400ms var(--motion-ease); }
+.main-nav a::after,.footer-nav a::after { transition-timing-function: var(--motion-ease); transition-duration: 450ms; }
+@media(max-width:760px) { .motion-await { translate: 0 20px; } }
+@media(prefers-reduced-motion:reduce) {
+  html { scroll-behavior: auto; }
+  .motion-await,.reveal.motion-await { opacity: 1; translate: none; }
+  .btn,.contact-submit,.home-offer,.offer-card,.portfolio-card,.portfolio-category,.blog-card,
+  .contact-info-card,.text-link span,.btn span,.social-arrow,.portfolio-logo-overlay,.home-art-hover,
+  .portfolio-category-image img,.home-art-image img,.portfolio-image > img,.client-project-grid img { transition: none !important; }
+  .btn:hover,.contact-submit:hover { translate: none; }
+  .reveal:is(.home-offer,.offer-card,.portfolio-card,.portfolio-category,.blog-card,.contact-info-card) { transition: none !important; }
+  .portfolio-card:hover .portfolio-image > img,.portfolio-category a:hover img,.home-art-card a:hover img { transform: none; }
+}
