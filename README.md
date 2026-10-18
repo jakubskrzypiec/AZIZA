@@ -59,3 +59,7 @@ Hero → o mnie → realizacje → poziomy przerywnik z CTA → oferta → osobn
 Finalne tła dopasowano do zdjęć klientki: nowoczesna klasyka, sztukaterie, orzech, mosiądz i warstwowe ciepłe oświetlenie. Trzy oryginalne zdjęcia były referencją stylu, a nie materiałem do przedstawiania nowych scen jako istniejących realizacji.
 
 Hero 56 podstron wykorzystuje teraz assets/home-v4-hero.webp, dopasowane do wnętrz klientki. Zachowano tytuły i osobną animowaną warstwę cienia. Cztery nowe poradniki blogowe pozostają w zaakceptowanym układzie tekstowym bez zdjęć.
+
+## Oferta i portfolio
+
+Główna prezentuje cztery obszary oferty: Wnętrza / Domy / Budynki usługowe / Obrazy. Portfolio (`portfolio.html`) jest stroną wyboru trzech galerii: Wnętrza, Architektura i Obrazy. Nowa architektura.html zawiera pięć projektów z materiałów klientki; domy i budynki usługowe pokazano razem. Rozwijane menu Portfolio działa przyciskiem na komputerze i telefonie, obsługuje Escape i zamknięcie po kliknięciu poza nim. Wybrane projekty na głównej mieszają wnętrza i architekturę; obrazy pozostają osobną sekcją.
