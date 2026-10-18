@@ -1,0 +1,7 @@
+/* One geometric sans throughout the architecture and painting portfolios. */
+.home-page,.subpage { --display: 'Jost',Arial,sans-serif; --sans: 'Jost',Arial,sans-serif; font-family: var(--sans); font-weight: 400; }
+.home-page h1,.home-page h2,.home-page h3,.subpage h1,.subpage h2,.subpage h3 { font-family: var(--display); font-weight: 300; font-style: normal; letter-spacing: -.025em; }
+.form-grid input,.form-grid textarea,.form-grid select { font-family: var(--sans); }
+.main-nav a { font-size: 12px; letter-spacing: .12em; }
+.eyebrow,.text-link,.btn { font-family: var(--sans); }
+@media(max-width:1100px) { .main-nav a { font-size: 11px; } }

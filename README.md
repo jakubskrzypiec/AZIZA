@@ -51,3 +51,9 @@ Kontakt: wyśrodkowany nagłówek „Porozmawiajmy o Twoich pomysłach”, więk
 ## Materiały klientki — 18 października 2026
 
 Paczka STRONA INTERNETOWA.zip: 148 plików graficznych. Kopie internetowe w assets/client/, pełne mapowanie w client-materials.json i client-projects.json. Galeria Wnętrza odzwierciedla foldery paczki, w tym części wspólne. Projekty architektoniczne są dostępne z podstron usług. Art déco ma oddzielną kolekcję aranżacji na stronie Obrazy; zachowano dotychczasowe nazwane prace malarskie. Zdjęcie IMG-2084.JPG zastępuje placeholder portretu. Nowe opisy ograniczają się do nazw folderów i podpisów wizualizacji — bez dopisywania lokalizacji, dat i wymiarów prac. Oryginały pozostają w dostarczonym ZIP.
+
+## Nowy układ głównej — 18 października 2026
+
+Hero → o mnie → realizacje → poziomy przerywnik z CTA → oferta → osobna sekcja obrazów → kwadratowy detal materiałów z tekstem po prawej → formularz → sociale → opinie Google. FAQ usunięto z głównej, zgodnie z nową kolejnością. Jost zastępuje Manrope na całej stronie (`typography.css`). `home-layout.css` odpowiada za nowy układ i nowe tła tylko na głównej. Wygenerowane dekoracyjne sceny i pełne prompty opisano w FINAL-HOME-ASSETS.md. Realizacje i obrazy pozostają materiałami klientki.
+
+Finalne tła dopasowano do zdjęć klientki: nowoczesna klasyka, sztukaterie, orzech, mosiądz i warstwowe ciepłe oświetlenie. Trzy oryginalne zdjęcia były referencją stylu, a nie materiałem do przedstawiania nowych scen jako istniejących realizacji.
