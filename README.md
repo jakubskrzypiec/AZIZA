@@ -47,3 +47,7 @@ Kontakt: wyśrodkowany nagłówek „Porozmawiajmy o Twoich pomysłach”, więk
 ## Wspólne dopracowanie wyglądu
 
 `polish.css` ujednolica odstępy, przyciski, pola formularzy, nagłówki sekcji i stopkę, ogranicza dekoracje i respektuje preferencję ograniczenia ruchu. Strona główna pokazuje rzeczywiste zakresy Wnętrza / Architektura / Obrazy oraz pięć zdjęć w płynnej karuzeli, z odnośnikami do szczegółów. Puste miejsce na portret pozostaje. Duże sceny mają lżejsze kopie WebP; oryginały PNG zachowano.
+
+## Materiały klientki — 18 października 2026
+
+Paczka STRONA INTERNETOWA.zip: 148 plików graficznych. Kopie internetowe w assets/client/, pełne mapowanie w client-materials.json i client-projects.json. Galeria Wnętrza odzwierciedla foldery paczki, w tym części wspólne. Projekty architektoniczne są dostępne z podstron usług. Art déco ma oddzielną kolekcję aranżacji na stronie Obrazy; zachowano dotychczasowe nazwane prace malarskie. Zdjęcie IMG-2084.JPG zastępuje placeholder portretu. Nowe opisy ograniczają się do nazw folderów i podpisów wizualizacji — bez dopisywania lokalizacji, dat i wymiarów prac. Oryginały pozostają w dostarczonym ZIP.

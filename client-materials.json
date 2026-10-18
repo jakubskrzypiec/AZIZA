@@ -1,0 +1,1633 @@
+{
+  "archive": "STRONA INTERNETOWA.zip",
+  "images": [
+    {
+      "path": "1.jpg",
+      "group": "1.jpg",
+      "size": [
+        1440,
+        1083
+      ],
+      "src": "assets/client/001-1.webp",
+      "width": 1440,
+      "height": 1083
+    },
+    {
+      "path": "NAZWA.png",
+      "group": "NAZWA.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "src": "assets/client/002-nazwa.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "IMG_4585.JPG",
+      "group": "IMG_4585.JPG",
+      "size": [
+        2444,
+        1526
+      ],
+      "src": "assets/client/003-img-4585.webp",
+      "width": 1920,
+      "height": 1199
+    },
+    {
+      "path": "IMG-2084.JPG",
+      "group": "IMG-2084.JPG",
+      "size": [
+        1440,
+        1083
+      ],
+      "src": "assets/client/004-img-2084.webp",
+      "width": 1440,
+      "height": 1083
+    },
+    {
+      "path": "logo a4 png.png",
+      "group": "logo a4 png.png",
+      "size": [
+        2078,
+        1798
+      ],
+      "src": "assets/client/005-logo-a4-png.webp",
+      "width": 1920,
+      "height": 1661
+    },
+    {
+      "path": "logo a4 png SZARE.png",
+      "group": "logo a4 png SZARE.png",
+      "size": [
+        2078,
+        1798
+      ],
+      "src": "assets/client/006-logo-a4-png-szare.webp",
+      "width": 1920,
+      "height": 1661
+    },
+    {
+      "path": "OBRAZY ART DECO/2.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/007-2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY ART DECO/1.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/008-1.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "OBRAZY ART DECO/3.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/009-3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY ART DECO/4.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/010-4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY ART DECO/5.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1536,
+        1024
+      ],
+      "src": "assets/client/011-5.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "logo a4 png czarne.png",
+      "group": "logo a4 png czarne.png",
+      "size": [
+        2078,
+        1798
+      ],
+      "src": "assets/client/012-logo-a4-png-czarne.webp",
+      "width": 1920,
+      "height": 1661
+    },
+    {
+      "path": "OBRAZY ART DECO/2A.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/013-2a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY ART DECO/4A.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/014-4a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY ART DECO/4B.png",
+      "group": "OBRAZY ART DECO",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/015-4b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "ARCHITEKTURA/WILLA.png",
+      "group": "ARCHITEKTURA/WILLA.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/016-willa.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/POCZEKALNIA/1.png",
+      "group": "WNĘTRZA/POCZEKALNIA",
+      "size": [
+        1536,
+        1024
+      ],
+      "src": "assets/client/017-1.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "WNĘTRZA/POCZEKALNIA/2.png",
+      "group": "WNĘTRZA/POCZEKALNIA",
+      "size": [
+        1586,
+        992
+      ],
+      "src": "assets/client/018-2.webp",
+      "width": 1586,
+      "height": 992
+    },
+    {
+      "path": "WNĘTRZA/POCZEKALNIA/3.png",
+      "group": "WNĘTRZA/POCZEKALNIA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/019-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "logo a4 png SZARE JASNE.png",
+      "group": "logo a4 png SZARE JASNE.png",
+      "size": [
+        2078,
+        1798
+      ],
+      "src": "assets/client/020-logo-a4-png-szare-jasne.webp",
+      "width": 1920,
+      "height": 1661
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT LOFT.png",
+      "group": "WNĘTRZA/APARTAMENT LOFT.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/021-apartament-loft.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/KUCHNIA ŚLIWKA/3.png",
+      "group": "WNĘTRZA/KUCHNIA ŚLIWKA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/022-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/KUCHNIA ŚLIWKA/1.png",
+      "group": "WNĘTRZA/KUCHNIA ŚLIWKA",
+      "size": [
+        1671,
+        941
+      ],
+      "src": "assets/client/023-1.webp",
+      "width": 1671,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/KUCHNIA ŚLIWKA/2.png",
+      "group": "WNĘTRZA/KUCHNIA ŚLIWKA",
+      "size": [
+        1670,
+        941
+      ],
+      "src": "assets/client/024-2.webp",
+      "width": 1670,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/POKÓJ NASTOLATKI/1.png",
+      "group": "WNĘTRZA/POKÓJ NASTOLATKI",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/025-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/POKÓJ NASTOLATKI/2.png",
+      "group": "WNĘTRZA/POKÓJ NASTOLATKI",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/026-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/POKÓJ NASTOLATKI/3.png",
+      "group": "WNĘTRZA/POKÓJ NASTOLATKI",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/027-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/POKÓJ NASTOLATKI/4.png",
+      "group": "WNĘTRZA/POKÓJ NASTOLATKI",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/028-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT OLIWKA/3.png",
+      "group": "WNĘTRZA/APARTAMENT OLIWKA",
+      "size": [
+        1368,
+        1150
+      ],
+      "src": "assets/client/029-3.webp",
+      "width": 1368,
+      "height": 1150
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT OLIWKA/2.png",
+      "group": "WNĘTRZA/APARTAMENT OLIWKA",
+      "size": [
+        757,
+        1024
+      ],
+      "src": "assets/client/030-2.webp",
+      "width": 757,
+      "height": 1024
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT OLIWKA/1.png",
+      "group": "WNĘTRZA/APARTAMENT OLIWKA",
+      "size": [
+        753,
+        1024
+      ],
+      "src": "assets/client/031-1.webp",
+      "width": 753,
+      "height": 1024
+    },
+    {
+      "path": "WNĘTRZA/KUCHNIA ŚLIWKA/DETAL 1.png",
+      "group": "WNĘTRZA/KUCHNIA ŚLIWKA",
+      "size": [
+        650,
+        1214
+      ],
+      "src": "assets/client/032-detal-1.webp",
+      "width": 650,
+      "height": 1214
+    },
+    {
+      "path": "WNĘTRZA/ŚWIĄTECZNA WIZUALIZACJA.png",
+      "group": "WNĘTRZA/ŚWIĄTECZNA WIZUALIZACJA.png",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/033-swiateczna-wizualizacja.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA INDUSTRIALNA/3.png",
+      "group": "WNĘTRZA/SYPIALNIA INDUSTRIALNA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/034-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA INDUSTRIALNA/1.png",
+      "group": "WNĘTRZA/SYPIALNIA INDUSTRIALNA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/035-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA INDUSTRIALNA/2.png",
+      "group": "WNĘTRZA/SYPIALNIA INDUSTRIALNA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/036-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 6.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/037-biuro-6.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/038-biuro-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/039-biuro-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 3.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/040-biuro-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 4.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/041-biuro-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/BIURO 5.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/042-biuro-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 2.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/043-inz-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 1.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/044-inz-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 3.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/045-inz-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 6.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/046-inz-6.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 4.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/047-inz-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK BIUROWY/INŻ. 5.png",
+      "group": "ARCHITEKTURA/BUDYNEK BIUROWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/048-inz-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA/3.png",
+      "group": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA",
+      "size": [
+        691,
+        538
+      ],
+      "src": "assets/client/049-3.webp",
+      "width": 691,
+      "height": 538
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA/1.png",
+      "group": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA",
+      "size": [
+        691,
+        478
+      ],
+      "src": "assets/client/050-1.webp",
+      "width": 691,
+      "height": 478
+    },
+    {
+      "path": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA/2.png",
+      "group": "WNĘTRZA/APARTAMENT SALON Z KUCHNIA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/051-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/KUCHNIA ŚLIWKA/REELS 1 JESIEN.png",
+      "group": "WNĘTRZA/KUCHNIA ŚLIWKA",
+      "size": [
+        1024,
+        1536
+      ],
+      "src": "assets/client/052-reels-1-jesien.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SALON 4.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/053-salon-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SALON 1.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/054-salon-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SALON 2.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/055-salon-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SALON 3.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/056-salon-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK USŁUGOWY/USŁUGA 1.png",
+      "group": "ARCHITEKTURA/BUDYNEK USŁUGOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/057-usluga-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK USŁUGOWY/USŁUGA 2.png",
+      "group": "ARCHITEKTURA/BUDYNEK USŁUGOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/058-usluga-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/BUDYNEK USŁUGOWY/USŁUGA 3.png",
+      "group": "ARCHITEKTURA/BUDYNEK USŁUGOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/059-usluga-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 2.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/060-sypialnia-klasyczna-2.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 1.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/061-sypialnia-klasyczna-1.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 3.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/062-sypialnia-klasyczna-3.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 4.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/063-sypialnia-klasyczna-4.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 5.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/064-sypialnia-klasyczna-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/SYPIALNIA/SYPIALNIA KLASYCZNA 6.png",
+      "group": "WNĘTRZA/SYPIALNIA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/065-sypialnia-klasyczna-6.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/066-biuro-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/067-biuro-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO 3.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/068-biuro-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/ŁAZIENKA 1.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/069-lazienka-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/ŁAZIENKA 2.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/070-lazienka-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/ŁAZIENKA 3.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/071-lazienka-3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/WEJŚCIE 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/072-wejscie-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/WEJŚCIE 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/073-wejscie-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/WEJŚCIE 3.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/074-wejscie-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SALON 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/075-salon-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SALON 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/076-salon-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SALON 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/077-salon-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SALON 4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/078-salon-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/ŁAZIENKA 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1670,
+        941
+      ],
+      "src": "assets/client/079-lazienka-1.webp",
+      "width": 1670,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/ŁAZIENKA 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/080-lazienka-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/KORYTARZ 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/081-korytarz-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/1_SALA KONFERENCYJNA.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/082-1-sala-konferencyjna.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/2_SALA KONFERENCYJNA.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/083-2-sala-konferencyjna.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/3_SALA KONFERNECYJNA.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1449,
+        1086
+      ],
+      "src": "assets/client/084-3-sala-konfernecyjna.webp",
+      "width": 1449,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SYPIALNIA 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/085-sypialnia-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/WIATROŁAP 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/086-wiatrolap-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/SYPIALNIA 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/087-sypialnia-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK/WIATROŁAP 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY BLIŹNIAK",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/088-wiatrolap-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO SZEFOWEJ 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/089-biuro-szefowej-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO SZEFOWEJ 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/090-biuro-szefowej-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/BIURO SZEFOWEJ 3.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/091-biuro-szefowej-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SYPIALNIA OPCJA 2_2.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/092-sypialnia-opcja-2-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SYPIALNIA OPCJA 2_3.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/093-sypialnia-opcja-2-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/MIESZKANIE OS. NEWTON/SYPIALNIA OPCJA 2_1.png",
+      "group": "WNĘTRZA/MIESZKANIE OS. NEWTON",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/094-sypialnia-opcja-2-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/3/ELEWACJA 5.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/095-elewacja-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/3/ELEWACJA 6.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1671,
+        941
+      ],
+      "src": "assets/client/096-elewacja-6.webp",
+      "width": 1671,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/1/ELEWACJA 1.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/097-elewacja-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/1/ELEWACJA 2.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/098-elewacja-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/2/ELEWACJA 3.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/099-elewacja-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY/2/ELEWACJA 4.png",
+      "group": "ARCHITEKTURA/ELEWACJA DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/100-elewacja-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/POCZEKALNIA I SOCJAL 1.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/101-poczekalnia-i-socjal-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/BIURO RACHUNKOWE/PIĘTRO/POCZEKALNIA I SOCJAL 2.png",
+      "group": "WNĘTRZA/BIURO RACHUNKOWE",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/102-poczekalnia-i-socjal-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/SALON/1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/103-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/SALON/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/104-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/SALON/3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/105-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "ARCHITEKTURA I URBANISTYKA/ARCHITEKTURA I URBANISTYKA 2.png",
+      "group": "ARCHITEKTURA I URBANISTYKA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/106-architektura-i-urbanistyka-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "ARCHITEKTURA I URBANISTYKA/ARCHITEKTURA I URBANISTYKA 1.png",
+      "group": "ARCHITEKTURA I URBANISTYKA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/107-architektura-i-urbanistyka-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "ARCHITEKTURA I URBANISTYKA/ARCHITEKTURA I URBANISTYKA 3.png",
+      "group": "ARCHITEKTURA I URBANISTYKA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/108-architektura-i-urbanistyka-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "ARCHITEKTURA I URBANISTYKA/ARCHITEKTURA I URBANISTYKA 4.png",
+      "group": "ARCHITEKTURA I URBANISTYKA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/109-architektura-i-urbanistyka-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/6.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/110-6.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/1.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/111-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/2.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/112-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/3.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/113-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/4.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/114-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY/5.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL LOFTOWY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/115-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/2.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/116-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/1.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/117-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/3.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/118-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/4.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/119-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/6.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/120-6.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI/5.png",
+      "group": "CZĘŚCI WSPÓLNE W OBIEKCIE WIELORODZINNYM/STYL ELEGANCKI",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/121-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/KORYTARZ/1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1536,
+        1024
+      ],
+      "src": "assets/client/122-1.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/KORYTARZ/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1089,
+        941
+      ],
+      "src": "assets/client/123-2.webp",
+      "width": 1089,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ SYNA/1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/124-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ SYNA/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/125-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ SYNA/3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/126-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/SYPIALNIA/3_2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/127-3-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/SYPIALNIA/3_1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1598,
+        941
+      ],
+      "src": "assets/client/128-3-1.webp",
+      "width": 1598,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PIĘTRO/3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/129-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PIĘTRO/5.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/130-5.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PIĘTRO/1.PNG",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/131-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PIĘTRO/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/132-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PIĘTRO/4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/133-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PARTER/02.jpg",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/134-02.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PARTER/01.jpg",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/135-01.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PARTER/03.jpg",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1442,
+        1078
+      ],
+      "src": "assets/client/136-03.webp",
+      "width": 1442,
+      "height": 1078
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PARTER/05.JPG",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/137-05.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/ŁAZIENKA PARTER/04.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/138-04.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/3 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/139-3-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/1 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/140-1-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/2 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/141-2-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/4 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/142-4-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/5 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/143-5-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/6 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/144-6-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/7 SALON I KUCHNIA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/145-7-salon-i-kuchnia.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ CÓRKI/POKÓJ CÓRKI 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1256,
+        974
+      ],
+      "src": "assets/client/146-pokoj-corki-3.webp",
+      "width": 1256,
+      "height": 974
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ CÓRKI/POKÓJ CÓRKI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1302,
+        1086
+      ],
+      "src": "assets/client/147-pokoj-corki-1.webp",
+      "width": 1302,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ CÓRKI/POKÓJ CÓRKI 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/148-pokoj-corki-2.webp",
+      "width": 1448,
+      "height": 1086
+    }
+  ]
+}
