@@ -57,3 +57,5 @@ Paczka STRONA INTERNETOWA.zip: 148 plików graficznych. Kopie internetowe w asse
 Hero → o mnie → realizacje → poziomy przerywnik z CTA → oferta → osobna sekcja obrazów → kwadratowy detal materiałów z tekstem po prawej → formularz → sociale → opinie Google. FAQ usunięto z głównej, zgodnie z nową kolejnością. Jost zastępuje Manrope na całej stronie (`typography.css`). `home-layout.css` odpowiada za nowy układ i nowe tła tylko na głównej. Wygenerowane dekoracyjne sceny i pełne prompty opisano w FINAL-HOME-ASSETS.md. Realizacje i obrazy pozostają materiałami klientki.
 
 Finalne tła dopasowano do zdjęć klientki: nowoczesna klasyka, sztukaterie, orzech, mosiądz i warstwowe ciepłe oświetlenie. Trzy oryginalne zdjęcia były referencją stylu, a nie materiałem do przedstawiania nowych scen jako istniejących realizacji.
+
+Hero 56 podstron wykorzystuje teraz assets/home-v4-hero.webp, dopasowane do wnętrz klientki. Zachowano tytuły i osobną animowaną warstwę cienia. Cztery nowe poradniki blogowe pozostają w zaakceptowanym układzie tekstowym bez zdjęć.
