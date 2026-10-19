@@ -69,3 +69,19 @@
  .home-page .reviews-card { padding-block: 35px; }
 }
 @media(prefers-reduced-motion:reduce) { .home-art-image img,.home-art-hover { transition: none; } .home-art-card a:hover img { transform: none; } }
+
+/* Soft cast foliage, kept to the edge of the room and off the central copy. */
+.home-page .botanical-shadow.refined-leaf-shadow { left: -7%; top: -28%; width: 47%; height: 150%; color: #251b21; filter: blur(10px); opacity: .3; transform-origin: 4% 95%; mask-image: linear-gradient(90deg,#000 35%,rgba(0,0,0,.65) 70%,transparent); animation: refined-shadow-drift 17s cubic-bezier(.45,0,.55,1) infinite alternate; }
+.home-page .art-scene-shadow.refined-leaf-shadow { left: -25%; top: -15%; width: 88%; height: 135%; color: #231923; filter: blur(8px); opacity: .27; transform-origin: 5% 95%; mask-image: linear-gradient(90deg,#000 35%,rgba(0,0,0,.7) 72%,transparent); animation: refined-shadow-drift 19s cubic-bezier(.45,0,.55,1) infinite alternate; }
+.shadow-leaf-far { filter: blur(4px); animation: refined-shadow-layer 13s ease-in-out infinite alternate; }
+@keyframes refined-shadow-drift { from { transform: translate(-18px,0) rotate(-3deg); } to { transform: translate(32px,8px) rotate(3deg); } }
+@keyframes refined-shadow-layer { from { translate: -8px -5px; } to { translate: 18px 7px; } }
+.ambient-scene:not(.is-in-view) .shadow-leaf-far { animation-play-state: paused; }
+.home-page .ambient-scene:not(.is-in-view) .refined-leaf-shadow { animation-play-state: paused; }
+@media(max-width:760px) {
+ .home-page .botanical-shadow.refined-leaf-shadow { left: -28%; width: 90%; opacity: .23; }
+ .home-page .art-scene-shadow.refined-leaf-shadow { left: -22%; width: 86%; opacity: .25; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .home-page .botanical-shadow.refined-leaf-shadow,.home-page .art-scene-shadow.refined-leaf-shadow,.shadow-leaf-far { animation: none; }
+}
