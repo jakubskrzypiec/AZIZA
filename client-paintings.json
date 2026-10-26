@@ -1,0 +1,110 @@
+[
+  {
+    "old": "assets/source-17.jpg",
+    "path": "OBRAZY STR INTERNETOWA/BALETNICA ZIELONA.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1312,
+      1199
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-baletnica-zielona.webp",
+    "width": 1312,
+    "height": 1199
+  },
+  {
+    "old": "assets/source-18.jpg",
+    "path": "OBRAZY STR INTERNETOWA/LILIE WODNE.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1312,
+      1199
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-lilie-wodne.webp",
+    "width": 1312,
+    "height": 1199
+  },
+  {
+    "old": "assets/source-19.jpg",
+    "path": "OBRAZY STR INTERNETOWA/taniec.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1122,
+      1402
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-taniec.webp",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "old": "assets/source-20.jpg",
+    "path": "OBRAZY STR INTERNETOWA/lawenda.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1312,
+      1199
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-lawenda.webp",
+    "width": 1312,
+    "height": 1199
+  },
+  {
+    "old": "assets/source-26.jpg",
+    "path": "OBRAZY STR INTERNETOWA/czarno białe.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1024,
+      1536
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-czarno-biale.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "old": "assets/source-27.jpg",
+    "path": "OBRAZY STR INTERNETOWA/teatr.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1447,
+      1087
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-teatr.webp",
+    "width": 1447,
+    "height": 1087
+  },
+  {
+    "old": "assets/source-32.jpg",
+    "path": "OBRAZY STR INTERNETOWA/wenecja.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1254,
+      1254
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-wenecja.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "old": "assets/source-33.jpg",
+    "path": "OBRAZY STR INTERNETOWA/DRZWI.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1536,
+      1024
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-drzwi.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "old": "assets/source-35.jpg",
+    "path": "OBRAZY STR INTERNETOWA/kobieta.png",
+    "group": "OBRAZY STR INTERNETOWA",
+    "size": [
+      1149,
+      1369
+    ],
+    "src": "assets/client/update-20261026-obrazy-str-internetowa-kobieta.webp",
+    "width": 1149,
+    "height": 1369
+  }
+]

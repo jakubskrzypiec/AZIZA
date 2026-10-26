@@ -1,5 +1,5 @@
 {
-  "archive": "STRONA INTERNETOWA.zip",
+  "archive": "STRONA INTERNETOWA (1).zip",
   "images": [
     {
       "path": "1.jpg",
@@ -1520,83 +1520,6 @@
       "height": 941
     },
     {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/3 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/139-3-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/1 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/140-1-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/2 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/141-2-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/4 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/142-4-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/5 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/143-5-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/6 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/144-6-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
-      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/7 SALON I KUCHNIA.png",
-      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
-      "size": [
-        1448,
-        1086
-      ],
-      "src": "assets/client/145-7-salon-i-kuchnia.webp",
-      "width": 1448,
-      "height": 1086
-    },
-    {
       "path": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA/POKÓJ CÓRKI/POKÓJ CÓRKI 3.png",
       "group": "WNĘTRZA/DOM JEDNORODZINNY - ZABUDOWA SZEREGOWA",
       "size": [
@@ -1628,6 +1551,562 @@
       "src": "assets/client/148-pokoj-corki-2.webp",
       "width": 1448,
       "height": 1086
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/DRZWI.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1536,
+        1024
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-drzwi.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/teatr.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1447,
+        1087
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-teatr.webp",
+      "width": 1447,
+      "height": 1087
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/taniec.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1122,
+        1402
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-taniec.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/kobieta.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1149,
+        1369
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-kobieta.webp",
+      "width": 1149,
+      "height": 1369
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/lawenda.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1312,
+        1199
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-lawenda.webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/wenecja.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1254,
+        1254
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-wenecja.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/LILIE WODNE.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1312,
+        1199
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-lilie-wodne.webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/czarno białe.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1024,
+        1536
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-czarno-biale.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/GARDEROBA/1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/GARDEROBA/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/GARDEROBA/3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/GARDEROBA/4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "OBRAZY STR INTERNETOWA/BALETNICA ZIELONA.png",
+      "group": "OBRAZY STR INTERNETOWA",
+      "size": [
+        1312,
+        1199
+      ],
+      "src": "assets/client/update-20261026-obrazy-str-internetowa-baletnica-zielona.webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/KUCHNIA/KUCHNIA 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/KUCHNIA/KUCHNIA 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/KUCHNIA/KUCHNIA 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ŁAZIENKA/ŁAZIENKA 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-lazienka-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/WIATROŁAP/WIATROŁAP 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/WIATROŁAP/WIATROŁAP 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-2.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-3.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-4.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/5.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-5.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/6.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-6.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA/7.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY - PARTEROWY TYP STODOŁA",
+      "size": [
+        1448,
+        1086
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-7.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SYPIALNIA/SYPIALNIA LOGO 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-sypialnia-sypialnia-logo-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SYPIALNIA/SYPIALNIA LOGO 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-sypialnia-sypialnia-logo-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SYPIALNIA/SYPIALNIA LOGO 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-sypialnia-sypialnia-logo-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SYPIALNIA/SYPIALNIA LOGO 4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-sypialnia-sypialnia-logo-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ANTRESOLA/BIURO NA ANTRESOLI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biuro-na-antresoli-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DLA GOŚCI/POKÓJ DLA GOŚCI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DLA GOŚCI/POKÓJ DLA GOŚCI 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DLA GOŚCI/POKÓJ DLA GOŚCI 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1630,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-3.webp",
+      "width": 1630,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DLA GOŚCI/POKÓJ DLA GOŚCI 4.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-4.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ANTRESOLA/BIBLIOTEKA NA ANTRESOLI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ANTRESOLA/BIBLIOTEKA NA ANTRESOLI 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SALON I JADALNIA/SALON I JADALNIA 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SALON I JADALNIA/SALON I JADALNIA 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SALON I JADALNIA/SALON I JADALNIA 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/KORYTARZ I KLATKA SCHODOWA/KORYTARZ 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-korytarz-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ NOWORODKA/POKÓJ DLA NOWORODKA 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ NOWORODKA/POKÓJ DLA NOWORODKA 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ NOWORODKA/POKÓJ DLA NOWORODKA 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ŁAZIENKA DLA GOŚCI/ŁAZIENKA DLA GOŚCI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/ŁAZIENKA DLA GOŚCI/ŁAZIENKA DLA GOŚCI 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DZIEWCZYNKI/POKÓJ DLA DZIEWCZYNKI 2.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-2.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DZIEWCZYNKI/POKÓJ DLA DZIEWCZYNKI 1.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-1.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/POKÓJ DZIEWCZYNKI/POKÓJ DLA DZIEWCZYNKI 3.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-3.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/KORYTARZ I KLATKA SCHODOWA/KLATKA SCHODOWA.png",
+      "group": "WNĘTRZA/DOM JEDNORODZINNY",
+      "size": [
+        1672,
+        941
+      ],
+      "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-klatka-schodowa.webp",
+      "width": 1672,
+      "height": 941
+    }
+  ],
+  "videos": [
+    {
+      "path": "WNĘTRZA/DOM JEDNORODZINNY/SYPIALNIA/FILM SYPIALNIA.mp4",
+      "src": "assets/client/dom-jednorodzinny-sypialnia.mp4"
     }
   ]
 }

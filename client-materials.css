@@ -6,4 +6,13 @@
 .client-art-collection { padding-top: 0; }
 .client-art-collection .portfolio-grid { max-width: 700px; }
 .client-art-collection .portfolio-card { grid-column: 1/-1; }
+.room-navigation { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-top: 32px; max-width: 1050px; }
+.room-navigation a { font-size: 14px; padding-block: 6px; border-bottom: 1px solid var(--line); }
+.room-navigation a:hover { border-color: currentColor; }
+.house-room { padding-top: 45px; padding-bottom: 45px; scroll-margin-top: 125px; }
+.house-room .gallery-heading { margin-bottom: 30px; }
+.project-film { margin: 32px 0 0; }
+.project-film video { display: block; width: 100%; max-height: 75vh; background: #171417; }
+.project-film figcaption { margin-top: 14px; font-size: 13px; color: var(--slate); }
+.subpage .gallery-trigger img { height: auto; }
 @media(max-width:760px) { .client-project-grid { grid-template-columns: 1fr; } .client-project-grid img { height: 300px; } .home-page .client-portrait { max-width: 350px; } }
