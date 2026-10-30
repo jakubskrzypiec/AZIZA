@@ -1,0 +1,15 @@
+# The generated HTML is published directly. Sources and project tooling stay private to the repository.
+exclude:
+  - _source
+  - scripts
+  - docs
+  - package.json
+  - package-lock.json
+  - README.md
+  - client-materials.json
+  - client-projects.json
+  - client-paintings.json
+  - content-sources.json
+  - IMAGE-PROMPTS.md
+  - FINAL-HOME-ASSETS.md
+  - SUBPAGE-HERO-PROMPT.md

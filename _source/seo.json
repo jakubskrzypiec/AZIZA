@@ -1,0 +1,380 @@
+{
+  "architektura.html": {
+    "title": "Projekty domów i budynków — architektura | AZIZA",
+    "description": "Portfolio architektoniczne AZIZA: projekty domów, elewacji, budynków biurowych i usługowych. Zobacz bryły, proporcje i relacje z otoczeniem.",
+    "heading": "Architektura",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "blog-jesienne-wnetrza-i-design.html": {
+    "title": "Jesienne wnętrza — jak stworzyć przytulny dom? | AZIZA",
+    "description": "Jesienne wnętrza pełne ciepła: kolory, oświetlenie, tkaniny i dodatki. Poznaj inspiracje pracowni AZIZA do stworzenia przytulnej atmosfery w domu.",
+    "heading": "Jesienne wnętrza i design: Jak stworzyć ciepłą i przytulną atmosferę w domu",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-kolory-materialy-wnetrze.html": {
+    "title": "Jak dobrać kolory i materiały do wnętrza? | AZIZA",
+    "description": "Jak połączyć kolory ścian, drewno, tkaniny i dodatki? Praktyczny sposób na uporządkowanie palety wnętrza przed zakupami.",
+    "heading": "Jak dobrać kolory i materiały do wnętrza? Spójna paleta krok po kroku",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-mala-lazienka-projekt.html": {
+    "title": "Mała łazienka — układ, światło i materiały | AZIZA",
+    "description": "Projekt małej łazienki krok po kroku: układ, przechowywanie, światło i materiały. Sprawdź, jakie decyzje uporządkować przed remontem.",
+    "heading": "Projekt małej łazienki: jak połączyć wygodę i spokojny wygląd?",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-obraz-we-wnetrzu.html": {
+    "title": "Obraz we wnętrzu — format, miejsce i kolorystyka | AZIZA",
+    "description": "Jak dobrać obraz do salonu, sypialni lub holu? Miejsce, proporcje, kolorystyka i światło w planowaniu domowej przestrzeni na sztukę.",
+    "heading": "Obraz we wnętrzu: jak wybrać miejsce, format i kolorystykę?",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-praktyczne-wskazowki-dla-domownikow.html": {
+    "title": "Praktyczne wskazówki do urządzania domu | AZIZA",
+    "description": "Praktyczne wskazówki architektki dotyczące urządzania domu. Sprawdź, jak planować przestrzeń i wybierać rozwiązania dopasowane do codziennego życia.",
+    "heading": "Praktyczne wskazówki dla domowników – Perspektywa Pani Architekt",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-projektowanie-wnetrz-koscian.html": {
+    "title": "Projekt wnętrza — jak przygotować się do współpracy? | AZIZA",
+    "description": "Jak przygotować się do projektu wnętrza? Dokumenty, potrzeby, budżet i pytania na pierwszą rozmowę z pracownią AZIZA w Kościanie.",
+    "heading": "Projektowanie wnętrz w Kościanie: jak przygotować się do współpracy?",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-projektowanie-wnetrza-perspektywa-architekta.html": {
+    "title": "Projektowanie wnętrza — perspektywa architekta | AZIZA",
+    "description": "Jak wygląda projektowanie wnętrza z perspektywy architekta? Poznaj znaczenie rozmowy z klientem, funkcji, estetyki i świadomego doboru rozwiązań.",
+    "heading": "Projektowanie Wnętrza – perspektywa architekta",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog-style-w-projektach-wnetrz.html": {
+    "title": "Style wnętrz — charakterystyka i zastosowanie | AZIZA",
+    "description": "Glamour, boho, industrialny, rustykalny i modern classic. Poznaj charakterystyczne cechy stylów wnętrz oraz pomysły na ich zastosowanie w domu.",
+    "heading": "Style w projektach wnętrz – charakterystyka i zastosowanie",
+    "image": "assets/home-v4-hero.webp",
+    "type": "article"
+  },
+  "blog.html": {
+    "title": "Blog o projektowaniu wnętrz i sztuce | AZIZA",
+    "description": "Praktyczne poradniki pracowni AZIZA o projektowaniu wnętrz, kolorach, materiałach i malarstwie. Przygotuj się do świadomych decyzji w swoim domu.",
+    "heading": "Blog",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "index.html": {
+    "title": "Architekt Kościan — wnętrza i domy | AZIZA",
+    "description": "Pracownia architektoniczna AZIZA w Kościanie. Projekty wnętrz, domów i budynków usługowych oraz autorskie malarstwo Izabeli Suwiczak-Lewandowskiej.",
+    "heading": "Przestrzeń, która naprawdę jest Twoja.",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "kontakt.html": {
+    "title": "Kontakt z pracownią architektoniczną | AZIZA Kościan",
+    "description": "Porozmawiajmy o Twoich pomysłach. Skontaktuj się z pracownią AZIZA w Kościanie: formularz, telefon 574 278 597 i adres e-mail projektantki.",
+    "heading": "Kontakt",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "obrazy.html": {
+    "title": "Obrazy Izabeli Suwiczak-Lewandowskiej | AZIZA",
+    "description": "Autorskie obrazy Izabeli Suwiczak-Lewandowskiej w aranżacjach wnętrz. Poznaj dziewięć prac, ich historie oraz osobną kolekcję Art déco.",
+    "heading": "Obrazy",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "portfolio.html": {
+    "title": "Projekty wnętrz, architektura i obrazy — portfolio | AZIZA",
+    "description": "Zobacz portfolio pracowni AZIZA: projekty wnętrz, architekturę domów i budynków usługowych oraz autorskie obrazy w aranżacjach wnętrz.",
+    "heading": "Portfolio",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "projekt-apartament-loft.html": {
+    "title": "Apartament Loft — projekt | AZIZA",
+    "description": "Apartament Loft — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Apartament Loft",
+    "image": "assets/client/021-apartament-loft.webp",
+    "type": "website"
+  },
+  "projekt-apartament-oliwka.html": {
+    "title": "Apartament Oliwka — projekt | AZIZA",
+    "description": "Apartament Oliwka — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Apartament Oliwka",
+    "image": "assets/client/031-1.webp",
+    "type": "website"
+  },
+  "projekt-apartament-salon-z-kuchnia.html": {
+    "title": "Apartament — salon z kuchnią — projekt | AZIZA",
+    "description": "Apartament — salon z kuchnią — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Apartament — salon z kuchnią",
+    "image": "assets/client/050-1.webp",
+    "type": "website"
+  },
+  "projekt-architektura-i-urbanistyka.html": {
+    "title": "Architektura i urbanistyka — projekt | AZIZA",
+    "description": "Architektura i urbanistyka — projekt architektoniczny pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Architektura i urbanistyka",
+    "image": "assets/client/107-architektura-i-urbanistyka-1.webp",
+    "type": "website"
+  },
+  "projekt-art-deco-aranzacje.html": {
+    "title": "Art déco — aranżacje — projekt | AZIZA",
+    "description": "Kolekcja obrazów Art déco w ośmiu aranżacjach wnętrz. Zobacz, jak malarstwo, kompozycja i detale współtworzą charakter przestrzeni w portfolio AZIZA.",
+    "heading": "Art déco — aranżacje",
+    "image": "assets/client/008-1.webp",
+    "type": "website"
+  },
+  "projekt-biuro-rachunkowe.html": {
+    "title": "Biuro rachunkowe — projekt | AZIZA",
+    "description": "Biuro rachunkowe — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Biuro rachunkowe",
+    "image": "assets/client/082-1-sala-konferencyjna.webp",
+    "type": "website"
+  },
+  "projekt-budynek-biurowy.html": {
+    "title": "Budynek biurowy — projekt | AZIZA",
+    "description": "Budynek biurowy — projekt architektoniczny pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Budynek biurowy",
+    "image": "assets/client/044-inz-1.webp",
+    "type": "website"
+  },
+  "projekt-budynek-uslugowy.html": {
+    "title": "Budynek usługowy — projekt | AZIZA",
+    "description": "Budynek usługowy — projekt architektoniczny pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Budynek usługowy",
+    "image": "assets/client/057-usluga-1.webp",
+    "type": "website"
+  },
+  "projekt-czesci-wspolne-styl-elegancki.html": {
+    "title": "Części wspólne — styl elegancki — projekt | AZIZA",
+    "description": "Części wspólne — styl elegancki — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Części wspólne — styl elegancki",
+    "image": "assets/client/117-1.webp",
+    "type": "website"
+  },
+  "projekt-dom-jednorodzinny-blizniak.html": {
+    "title": "Dom jednorodzinny — bliźniak — projekt | AZIZA",
+    "description": "Dom jednorodzinny — bliźniak — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Dom jednorodzinny — bliźniak",
+    "image": "assets/client/081-korytarz-1.webp",
+    "type": "website"
+  },
+  "projekt-dom-jednorodzinny.html": {
+    "title": "Dom jednorodzinny — projekt | AZIZA",
+    "description": "Dom jednorodzinny — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Dom jednorodzinny",
+    "image": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1.webp",
+    "type": "website"
+  },
+  "projekt-dom-parterowy-typu-stodola.html": {
+    "title": "Dom parterowy typu stodoła — projekt | AZIZA",
+    "description": "Dom parterowy typu stodoła — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Dom parterowy typu stodoła",
+    "image": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1.webp",
+    "type": "website"
+  },
+  "projekt-dom-w-zabudowie-szeregowej.html": {
+    "title": "Dom w zabudowie szeregowej — projekt | AZIZA",
+    "description": "Dom w zabudowie szeregowej — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Dom w zabudowie szeregowej",
+    "image": "assets/client/122-1.webp",
+    "type": "website"
+  },
+  "projekt-elewacja-domu-jednorodzinnego.html": {
+    "title": "Elewacja domu jednorodzinnego — projekt | AZIZA",
+    "description": "Elewacja domu jednorodzinnego — projekt architektoniczny pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Elewacja domu jednorodzinnego",
+    "image": "assets/client/097-elewacja-1.webp",
+    "type": "website"
+  },
+  "projekt-kuchnia-sliwka.html": {
+    "title": "Kuchnia Śliwka — projekt | AZIZA",
+    "description": "Kuchnia Śliwka — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Kuchnia Śliwka",
+    "image": "assets/client/023-1.webp",
+    "type": "website"
+  },
+  "projekt-mieszkanie-os-newton.html": {
+    "title": "Mieszkanie — os. Newton — projekt | AZIZA",
+    "description": "Mieszkanie — os. Newton — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Mieszkanie — os. Newton",
+    "image": "assets/client/069-lazienka-1.webp",
+    "type": "website"
+  },
+  "projekt-poczekalnia.html": {
+    "title": "Poczekalnia — projekt | AZIZA",
+    "description": "Poczekalnia — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Poczekalnia",
+    "image": "assets/client/017-1.webp",
+    "type": "website"
+  },
+  "projekt-pokoj-nastolatki.html": {
+    "title": "Pokój nastolatki — projekt | AZIZA",
+    "description": "Pokój nastolatki — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Pokój nastolatki",
+    "image": "assets/client/025-1.webp",
+    "type": "website"
+  },
+  "projekt-swiateczna-wizualizacja.html": {
+    "title": "Świąteczna wizualizacja — projekt | AZIZA",
+    "description": "Świąteczna wizualizacja — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Świąteczna wizualizacja",
+    "image": "assets/client/033-swiateczna-wizualizacja.webp",
+    "type": "website"
+  },
+  "projekt-sypialnia-klasyczna.html": {
+    "title": "Sypialnia klasyczna — projekt | AZIZA",
+    "description": "Sypialnia klasyczna — projekt wnętrza pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Sypialnia klasyczna",
+    "image": "assets/client/061-sypialnia-klasyczna-1.webp",
+    "type": "website"
+  },
+  "projekt-willa.html": {
+    "title": "Willa — projekt | AZIZA",
+    "description": "Willa — projekt architektoniczny pracowni AZIZA. Zobacz galerię wizualizacji i poznaj rozwiązania zastosowane w tej przestrzeni.",
+    "heading": "Willa",
+    "image": "assets/client/016-willa.webp",
+    "type": "website"
+  },
+  "projektowanie-budynkow-uslugowych.html": {
+    "title": "Projektowanie budynków usługowych | AZIZA Kościan",
+    "description": "Projekty budynków usługowych i biurowych w pracowni AZIZA. Przestrzeń dla klientów i pracowników dopasowana do charakteru prowadzonej działalności.",
+    "heading": "Budynki usługowe",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "projektowanie-domow-jednorodzinnych-i-wielorodzinnych.html": {
+    "title": "Projektowanie domów jednorodzinnych i wielorodzinnych | AZIZA",
+    "description": "Indywidualne projekty domów jednorodzinnych i wielorodzinnych w pracowni AZIZA. Funkcjonalny układ, estetyczna bryła i dopasowanie do otoczenia.",
+    "heading": "Domy jednorodzinne i wielorodzinne",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "projektowanie-wnetrz.html": {
+    "title": "Projektowanie wnętrz Kościan — oferta | AZIZA",
+    "description": "Projektowanie wnętrz dopasowanych do codziennego życia. Sprawdź zakres konsultacji, wizualizacji, dokumentacji i wsparcia w realizacji w AZIZA.",
+    "heading": "Wnętrza",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "realizacja-baletnica-w-lesie-snow.html": {
+    "title": "Baletnica w lesie snów — obraz | AZIZA",
+    "description": "„Baletnica w lesie snów” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Baletnica w lesie snów",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-baletnica-zielona.webp",
+    "type": "website"
+  },
+  "realizacja-cisza-we-mnie.html": {
+    "title": "Cisza we mnie — obraz | AZIZA",
+    "description": "„Cisza we mnie” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Cisza we mnie",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-czarno-biale.webp",
+    "type": "website"
+  },
+  "realizacja-dom-pod-blekitnymi-okiennicami.html": {
+    "title": "Dom pod błękitnymi okiennicami — obraz | AZIZA",
+    "description": "„Dom pod błękitnymi okiennicami” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Dom pod błękitnymi okiennicami",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-drzwi.webp",
+    "type": "website"
+  },
+  "realizacja-letni-dzien-w-ogrodach.html": {
+    "title": "Letni dzień w ogrodach — obraz | AZIZA",
+    "description": "„Letni dzień w ogrodach” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Letni dzień w ogrodach",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-teatr.webp",
+    "type": "website"
+  },
+  "realizacja-milczenie-nenufarow.html": {
+    "title": "Milczenie nenufarów — obraz | AZIZA",
+    "description": "„Milczenie nenufarów” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Milczenie nenufarów",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-lilie-wodne.webp",
+    "type": "website"
+  },
+  "realizacja-oblicze-nieodkryte.html": {
+    "title": "Oblicze nieodkryte — obraz | AZIZA",
+    "description": "„Oblicze nieodkryte” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Oblicze nieodkryte",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-kobieta.webp",
+    "type": "website"
+  },
+  "realizacja-projekt-czesci-wspolnej-w-zabudowie-wielorodzinnej.html": {
+    "title": "Części wspólne — styl loftowy — projekt wnętrza | AZIZA",
+    "description": "Części wspólne — styl loftowy — projekt wnętrza pracowni AZIZA. Zobacz wizualizacje, poznaj założenia projektu i porozmawiajmy o Twojej przestrzeni.",
+    "heading": "Części wspólne — styl loftowy",
+    "image": "assets/client/111-1.webp",
+    "type": "website"
+  },
+  "realizacja-projekt-koncepcyjny-holu-w-kancelarii.html": {
+    "title": "Projekt Koncepcyjny Holu W Kancelarii — projekt wnętrza | AZIZA",
+    "description": "Projekt Koncepcyjny Holu W Kancelarii — projekt wnętrza pracowni AZIZA. Zobacz wizualizacje, poznaj założenia projektu i porozmawiajmy o Twojej przestrzeni.",
+    "heading": "Projekt Koncepcyjny Holu W Kancelarii",
+    "image": "assets/source-16.jpg",
+    "type": "website"
+  },
+  "realizacja-projekt-malej-lazienki.html": {
+    "title": "Projekt Małej Łazienki — projekt wnętrza | AZIZA",
+    "description": "Projekt Małej Łazienki — projekt wnętrza pracowni AZIZA. Zobacz wizualizacje, poznaj założenia projektu i porozmawiajmy o Twojej przestrzeni.",
+    "heading": "Projekt Małej Łazienki",
+    "image": "assets/source-8.jpg",
+    "type": "website"
+  },
+  "realizacja-projekt-sypialnia-z-elementami-industrialnymi.html": {
+    "title": "Sypialnia industrialna — projekt wnętrza | AZIZA",
+    "description": "Sypialnia industrialna — projekt wnętrza pracowni AZIZA. Zobacz wizualizacje, poznaj założenia projektu i porozmawiajmy o Twojej przestrzeni.",
+    "heading": "Sypialnia industrialna",
+    "image": "assets/client/035-1.webp",
+    "type": "website"
+  },
+  "realizacja-realizacja-lazienek-w-domu-jednorodzinnym.html": {
+    "title": "Realizacja Łazienek W Domu Jednorodzinnym — projekt wnętrza | AZIZA",
+    "description": "Realizacja Łazienek W Domu Jednorodzinnym — projekt wnętrza pracowni AZIZA. Zobacz wizualizacje, poznaj założenia projektu i porozmawiajmy o Twojej przestrzeni.",
+    "heading": "Realizacja Łazienek W Domu Jednorodzinnym",
+    "image": "assets/source-15.jpg",
+    "type": "website"
+  },
+  "realizacja-taniec-wewnetrznego-ognia.html": {
+    "title": "Taniec wewnętrznego ognia — obraz | AZIZA",
+    "description": "„Taniec wewnętrznego ognia” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Taniec wewnętrznego ognia",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-taniec.webp",
+    "type": "website"
+  },
+  "realizacja-wedrowka-przez-lawendowe-sny.html": {
+    "title": "Wędrówka przez lawendowe sny — obraz | AZIZA",
+    "description": "„Wędrówka przez lawendowe sny” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Wędrówka przez lawendowe sny",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-lawenda.webp",
+    "type": "website"
+  },
+  "realizacja-wenecki-sen.html": {
+    "title": "Wenecki sen — obraz | AZIZA",
+    "description": "„Wenecki sen” — autorski obraz Izabeli Suwiczak-Lewandowskiej. Poznaj historię pracy i zobacz, jak prezentuje się w aranżacji wnętrza.",
+    "heading": "Wenecki sen",
+    "image": "assets/client/update-20261026-obrazy-str-internetowa-wenecja.webp",
+    "type": "website"
+  },
+  "uslugi.html": {
+    "title": "Oferta projektowania wnętrz i architektury | AZIZA",
+    "description": "Poznaj ofertę AZIZA: projektowanie wnętrz, domów, budynków usługowych i autorskie obrazy. Porównaj warianty Dorycki, Joński i Koryncki.",
+    "heading": "Oferta",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  },
+  "wnetrza.html": {
+    "title": "Projekty wnętrz — domy i mieszkania | AZIZA Kościan",
+    "description": "Poznaj projekty wnętrz AZIZA: domy, mieszkania, kuchnie, sypialnie i przestrzenie usługowe. Zobacz wizualizacje, detale i rozwiązania funkcjonalne.",
+    "heading": "Wnętrza",
+    "image": "assets/home-v4-hero.webp",
+    "type": "website"
+  }
+}

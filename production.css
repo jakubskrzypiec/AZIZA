@@ -1,0 +1,17 @@
+/* Final publication adjustments: readable form feedback and stable media on mobile. */
+img { height: auto; }
+.project-film video { height: auto; aspect-ratio: 1918 / 1080; }
+.contact-form [type="submit"]:disabled { opacity: .65; cursor: wait; }
+.contact-form .form-note { min-height: 3em; }
+.contact-form .form-note[data-state="error"] { color: #872f33; }
+.contact-form .form-note[data-state="success"] { color: #285b40; }
+.contact-data-note { font-size: 12px; line-height: 1.7; margin-top: 18px; color: var(--slate); }
+.contact-data-note a { text-decoration: underline; text-underline-offset: 3px; }
+.contact-form .form-honeypot { display: none !important; }
+@media (max-width:760px) {
+  .form-grid input,.form-grid textarea,.form-grid select { font-size: 16px; }
+  .subpage .gallery-trigger img { height: auto; }
+  .room-navigation { gap: 8px 18px; }
+  .house-room { scroll-margin-top: 100px; }
+  .home-page .hero-bg { background-image: url('assets/responsive/home-v4-hero-960.webp') !important; }
+}

@@ -1,0 +1,3638 @@
+{
+  "assets/client/004-img-2084.webp": {
+    "width": 1440,
+    "height": 1083,
+    "variants": [
+      {
+        "src": "assets/responsive/client-004-img-2084-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-004-img-2084-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/004-img-2084.webp",
+        "width": 1440
+      }
+    ]
+  },
+  "assets/client/007-2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-007-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-007-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/007-2.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/008-1.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-008-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-008-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/008-1.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/009-3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-009-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-009-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/009-3.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/010-4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-010-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-010-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/010-4.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/011-5.webp": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-011-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-011-5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/011-5.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "assets/client/013-2a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-013-2a-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-013-2a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/013-2a.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/014-4a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-014-4a-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-014-4a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/014-4a.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/015-4b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-015-4b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-015-4b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/015-4b.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/016-willa.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-016-willa-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-016-willa-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/016-willa.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/017-1.webp": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-017-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-017-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/017-1.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "assets/client/018-2.webp": {
+    "width": 1586,
+    "height": 992,
+    "variants": [
+      {
+        "src": "assets/responsive/client-018-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-018-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/018-2.webp",
+        "width": 1586
+      }
+    ]
+  },
+  "assets/client/019-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-019-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-019-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/019-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/021-apartament-loft.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-021-apartament-loft-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-021-apartament-loft-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/021-apartament-loft.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/022-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-022-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-022-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/022-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/023-1.webp": {
+    "width": 1671,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-023-1-480.webp",
+        "width": 479
+      },
+      {
+        "src": "assets/responsive/client-023-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/023-1.webp",
+        "width": 1671
+      }
+    ]
+  },
+  "assets/client/024-2.webp": {
+    "width": 1670,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-024-2-480.webp",
+        "width": 479
+      },
+      {
+        "src": "assets/responsive/client-024-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/024-2.webp",
+        "width": 1670
+      }
+    ]
+  },
+  "assets/client/025-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-025-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-025-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/025-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/026-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-026-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-026-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/026-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/027-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-027-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-027-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/027-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/028-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-028-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-028-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/028-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/029-3.webp": {
+    "width": 1368,
+    "height": 1150,
+    "variants": [
+      {
+        "src": "assets/responsive/client-029-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-029-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/029-3.webp",
+        "width": 1368
+      }
+    ]
+  },
+  "assets/client/030-2.webp": {
+    "width": 757,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-030-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/client/030-2.webp",
+        "width": 757
+      }
+    ]
+  },
+  "assets/client/031-1.webp": {
+    "width": 753,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-031-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/client/031-1.webp",
+        "width": 753
+      }
+    ]
+  },
+  "assets/client/032-detal-1.webp": {
+    "width": 650,
+    "height": 1214,
+    "variants": [
+      {
+        "src": "assets/responsive/client-032-detal-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/client/032-detal-1.webp",
+        "width": 650
+      }
+    ]
+  },
+  "assets/client/033-swiateczna-wizualizacja.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-033-swiateczna-wizualizacja-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-033-swiateczna-wizualizacja-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/033-swiateczna-wizualizacja.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/034-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-034-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-034-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/034-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/035-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-035-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-035-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/035-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/036-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-036-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-036-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/036-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/037-biuro-6.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-037-biuro-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-037-biuro-6-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/037-biuro-6.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/038-biuro-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-038-biuro-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-038-biuro-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/038-biuro-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/039-biuro-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-039-biuro-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-039-biuro-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/039-biuro-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/040-biuro-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-040-biuro-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-040-biuro-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/040-biuro-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/041-biuro-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-041-biuro-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-041-biuro-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/041-biuro-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/042-biuro-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-042-biuro-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-042-biuro-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/042-biuro-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/043-inz-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-043-inz-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-043-inz-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/043-inz-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/044-inz-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-044-inz-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-044-inz-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/044-inz-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/045-inz-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-045-inz-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-045-inz-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/045-inz-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/046-inz-6.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-046-inz-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-046-inz-6-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/046-inz-6.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/047-inz-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-047-inz-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-047-inz-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/047-inz-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/048-inz-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-048-inz-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-048-inz-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/048-inz-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/049-3.webp": {
+    "width": 691,
+    "height": 538,
+    "variants": [
+      {
+        "src": "assets/responsive/client-049-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/client/049-3.webp",
+        "width": 691
+      }
+    ]
+  },
+  "assets/client/050-1.webp": {
+    "width": 691,
+    "height": 478,
+    "variants": [
+      {
+        "src": "assets/responsive/client-050-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/client/050-1.webp",
+        "width": 691
+      }
+    ]
+  },
+  "assets/client/051-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-051-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-051-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/051-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/052-reels-1-jesien.webp": {
+    "width": 1024,
+    "height": 1536,
+    "variants": [
+      {
+        "src": "assets/responsive/client-052-reels-1-jesien-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-052-reels-1-jesien-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/052-reels-1-jesien.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/client/053-salon-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-053-salon-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-053-salon-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/053-salon-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/054-salon-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-054-salon-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-054-salon-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/054-salon-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/055-salon-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-055-salon-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-055-salon-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/055-salon-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/056-salon-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-056-salon-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-056-salon-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/056-salon-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/057-usluga-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-057-usluga-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-057-usluga-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/057-usluga-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/058-usluga-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-058-usluga-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-058-usluga-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/058-usluga-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/059-usluga-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-059-usluga-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-059-usluga-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/059-usluga-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/060-sypialnia-klasyczna-2.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-060-sypialnia-klasyczna-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-060-sypialnia-klasyczna-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/060-sypialnia-klasyczna-2.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/061-sypialnia-klasyczna-1.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-061-sypialnia-klasyczna-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-061-sypialnia-klasyczna-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/061-sypialnia-klasyczna-1.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/062-sypialnia-klasyczna-3.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-062-sypialnia-klasyczna-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-062-sypialnia-klasyczna-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/062-sypialnia-klasyczna-3.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/063-sypialnia-klasyczna-4.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-063-sypialnia-klasyczna-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-063-sypialnia-klasyczna-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/063-sypialnia-klasyczna-4.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/064-sypialnia-klasyczna-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-064-sypialnia-klasyczna-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-064-sypialnia-klasyczna-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/064-sypialnia-klasyczna-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/065-sypialnia-klasyczna-6.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-065-sypialnia-klasyczna-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-065-sypialnia-klasyczna-6-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/065-sypialnia-klasyczna-6.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/066-biuro-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-066-biuro-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-066-biuro-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/066-biuro-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/067-biuro-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-067-biuro-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-067-biuro-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/067-biuro-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/068-biuro-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-068-biuro-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-068-biuro-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/068-biuro-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/069-lazienka-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-069-lazienka-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-069-lazienka-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/069-lazienka-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/070-lazienka-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-070-lazienka-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-070-lazienka-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/070-lazienka-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/071-lazienka-3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-071-lazienka-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-071-lazienka-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/071-lazienka-3.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/072-wejscie-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-072-wejscie-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-072-wejscie-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/072-wejscie-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/073-wejscie-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-073-wejscie-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-073-wejscie-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/073-wejscie-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/074-wejscie-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-074-wejscie-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-074-wejscie-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/074-wejscie-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/075-salon-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-075-salon-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-075-salon-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/075-salon-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/076-salon-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-076-salon-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-076-salon-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/076-salon-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/077-salon-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-077-salon-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-077-salon-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/077-salon-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/078-salon-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-078-salon-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-078-salon-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/078-salon-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/079-lazienka-1.webp": {
+    "width": 1670,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-079-lazienka-1-480.webp",
+        "width": 479
+      },
+      {
+        "src": "assets/responsive/client-079-lazienka-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/079-lazienka-1.webp",
+        "width": 1670
+      }
+    ]
+  },
+  "assets/client/080-lazienka-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-080-lazienka-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-080-lazienka-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/080-lazienka-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/081-korytarz-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-081-korytarz-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-081-korytarz-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/081-korytarz-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/082-1-sala-konferencyjna.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-082-1-sala-konferencyjna-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-082-1-sala-konferencyjna-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/082-1-sala-konferencyjna.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/083-2-sala-konferencyjna.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-083-2-sala-konferencyjna-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-083-2-sala-konferencyjna-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/083-2-sala-konferencyjna.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/084-3-sala-konfernecyjna.webp": {
+    "width": 1449,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-084-3-sala-konfernecyjna-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-084-3-sala-konfernecyjna-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/084-3-sala-konfernecyjna.webp",
+        "width": 1449
+      }
+    ]
+  },
+  "assets/client/085-sypialnia-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-085-sypialnia-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-085-sypialnia-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/085-sypialnia-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/086-wiatrolap-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-086-wiatrolap-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-086-wiatrolap-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/086-wiatrolap-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/087-sypialnia-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-087-sypialnia-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-087-sypialnia-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/087-sypialnia-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/088-wiatrolap-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-088-wiatrolap-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-088-wiatrolap-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/088-wiatrolap-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/089-biuro-szefowej-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-089-biuro-szefowej-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-089-biuro-szefowej-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/089-biuro-szefowej-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/090-biuro-szefowej-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-090-biuro-szefowej-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-090-biuro-szefowej-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/090-biuro-szefowej-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/091-biuro-szefowej-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-091-biuro-szefowej-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-091-biuro-szefowej-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/091-biuro-szefowej-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/092-sypialnia-opcja-2-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-092-sypialnia-opcja-2-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-092-sypialnia-opcja-2-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/092-sypialnia-opcja-2-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/093-sypialnia-opcja-2-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-093-sypialnia-opcja-2-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-093-sypialnia-opcja-2-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/093-sypialnia-opcja-2-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/094-sypialnia-opcja-2-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-094-sypialnia-opcja-2-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-094-sypialnia-opcja-2-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/094-sypialnia-opcja-2-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/095-elewacja-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-095-elewacja-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-095-elewacja-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/095-elewacja-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/096-elewacja-6.webp": {
+    "width": 1671,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-096-elewacja-6-480.webp",
+        "width": 479
+      },
+      {
+        "src": "assets/responsive/client-096-elewacja-6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/096-elewacja-6.webp",
+        "width": 1671
+      }
+    ]
+  },
+  "assets/client/097-elewacja-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-097-elewacja-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-097-elewacja-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/097-elewacja-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/098-elewacja-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-098-elewacja-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-098-elewacja-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/098-elewacja-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/099-elewacja-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-099-elewacja-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-099-elewacja-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/099-elewacja-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/100-elewacja-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-100-elewacja-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-100-elewacja-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/100-elewacja-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/101-poczekalnia-i-socjal-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-101-poczekalnia-i-socjal-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-101-poczekalnia-i-socjal-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/101-poczekalnia-i-socjal-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/102-poczekalnia-i-socjal-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-102-poczekalnia-i-socjal-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-102-poczekalnia-i-socjal-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/102-poczekalnia-i-socjal-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/103-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-103-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-103-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/103-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/104-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-104-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-104-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/104-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/105-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-105-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-105-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/105-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/106-architektura-i-urbanistyka-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-106-architektura-i-urbanistyka-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-106-architektura-i-urbanistyka-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/106-architektura-i-urbanistyka-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/107-architektura-i-urbanistyka-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-107-architektura-i-urbanistyka-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-107-architektura-i-urbanistyka-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/107-architektura-i-urbanistyka-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/108-architektura-i-urbanistyka-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-108-architektura-i-urbanistyka-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-108-architektura-i-urbanistyka-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/108-architektura-i-urbanistyka-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/109-architektura-i-urbanistyka-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-109-architektura-i-urbanistyka-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-109-architektura-i-urbanistyka-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/109-architektura-i-urbanistyka-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/110-6.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-110-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-110-6-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/110-6.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/111-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-111-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-111-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/111-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/112-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-112-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-112-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/112-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/113-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-113-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-113-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/113-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/114-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-114-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-114-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/114-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/115-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-115-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-115-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/115-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/116-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-116-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-116-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/116-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/117-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-117-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-117-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/117-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/118-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-118-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-118-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/118-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/119-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-119-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-119-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/119-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/120-6.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-120-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-120-6-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/120-6.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/121-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-121-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-121-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/121-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/122-1.webp": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-122-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-122-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/122-1.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "assets/client/123-2.webp": {
+    "width": 1089,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-123-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-123-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/123-2.webp",
+        "width": 1089
+      }
+    ]
+  },
+  "assets/client/124-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-124-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-124-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/124-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/125-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-125-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-125-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/125-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/126-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-126-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-126-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/126-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/127-3-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-127-3-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-127-3-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/127-3-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/128-3-1.webp": {
+    "width": 1598,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-128-3-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-128-3-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/128-3-1.webp",
+        "width": 1598
+      }
+    ]
+  },
+  "assets/client/129-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-129-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-129-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/129-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/130-5.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-130-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-130-5-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/130-5.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/131-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-131-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-131-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/131-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/132-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-132-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-132-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/132-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/133-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-133-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-133-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/133-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/134-02.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-134-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-134-02-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/134-02.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/135-01.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-135-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-135-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/135-01.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/136-03.webp": {
+    "width": 1442,
+    "height": 1078,
+    "variants": [
+      {
+        "src": "assets/responsive/client-136-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-136-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/136-03.webp",
+        "width": 1442
+      }
+    ]
+  },
+  "assets/client/137-05.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-137-05-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-137-05-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/137-05.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/138-04.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-138-04-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-138-04-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/138-04.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/146-pokoj-corki-3.webp": {
+    "width": 1256,
+    "height": 974,
+    "variants": [
+      {
+        "src": "assets/responsive/client-146-pokoj-corki-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-146-pokoj-corki-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/146-pokoj-corki-3.webp",
+        "width": 1256
+      }
+    ]
+  },
+  "assets/client/147-pokoj-corki-1.webp": {
+    "width": 1302,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-147-pokoj-corki-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-147-pokoj-corki-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/147-pokoj-corki-1.webp",
+        "width": 1302
+      }
+    ]
+  },
+  "assets/client/148-pokoj-corki-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-148-pokoj-corki-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-148-pokoj-corki-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/148-pokoj-corki-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-baletnica-zielona.webp": {
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-baletnica-zielona-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-baletnica-zielona-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-baletnica-zielona.webp",
+        "width": 1312
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-czarno-biale.webp": {
+    "width": 1024,
+    "height": 1536,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-czarno-biale-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-czarno-biale-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-czarno-biale.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-drzwi.webp": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-drzwi-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-drzwi-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-drzwi.webp",
+        "width": 1536
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-kobieta.webp": {
+    "width": 1149,
+    "height": 1369,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-kobieta-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-kobieta-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-kobieta.webp",
+        "width": 1149
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-lawenda.webp": {
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-lawenda-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-lawenda-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-lawenda.webp",
+        "width": 1312
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-lilie-wodne.webp": {
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-lilie-wodne-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-lilie-wodne-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-lilie-wodne.webp",
+        "width": 1312
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-taniec.webp": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-taniec-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-taniec-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-taniec.webp",
+        "width": 1122
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-teatr.webp": {
+    "width": 1447,
+    "height": 1087,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-teatr-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-teatr-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-teatr.webp",
+        "width": 1447
+      }
+    ]
+  },
+  "assets/client/update-20261026-obrazy-str-internetowa-wenecja.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-wenecja-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-obrazy-str-internetowa-wenecja-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-obrazy-str-internetowa-wenecja.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biblioteka-na-antresoli-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biuro-na-antresoli-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biuro-na-antresoli-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-antresola-biuro-na-antresoli-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-antresola-biuro-na-antresoli-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-garderoba-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-garderoba-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-klatka-schodowa.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-klatka-schodowa-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-klatka-schodowa-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-klatka-schodowa.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-korytarz-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-korytarz-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-korytarz-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-korytarz-i-klatka-schodowa-korytarz-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-kuchnia-kuchnia-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-dla-gosci-lazienka-dla-gosci-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-lazienka-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-lazienka-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-lazienka-lazienka-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-lazienka-lazienka-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-1.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-2.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-2.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-3.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-3.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-4.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-4.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-5.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-5.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-6.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-6.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-7.webp": {
+    "width": 1448,
+    "height": 1086,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-7-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-7-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-parterowy-typ-stodola-7.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-3.webp": {
+    "width": 1630,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-3.webp",
+        "width": 1630
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-4.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-4-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dla-gosci-pokoj-dla-gosci-4.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-dziewczynki-pokoj-dla-dziewczynki-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-pokoj-noworodka-pokoj-dla-noworodka-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-3.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-3-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-salon-i-jadalnia-salon-i-jadalnia-3.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-1.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-1-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-1.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-2.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/client-update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-2-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/client/update-20261026-wnetrza-dom-jednorodzinny-wiatrolap-wiatrolap-2.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/home-v4-hero.webp": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "src": "assets/responsive/home-v4-hero-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/home-v4-hero-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/home-v4-hero.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "assets/home-v4-square.webp": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "src": "assets/responsive/home-v4-square-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/home-v4-square-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/home-v4-square.webp",
+        "width": 1254
+      }
+    ]
+  },
+  "assets/home-v4-wide.webp": {
+    "width": 1916,
+    "height": 821,
+    "variants": [
+      {
+        "src": "assets/responsive/home-v4-wide-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/home-v4-wide-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/home-v4-wide.webp",
+        "width": 1916
+      }
+    ]
+  },
+  "assets/interlude-light.webp": {
+    "width": 1916,
+    "height": 821,
+    "variants": [
+      {
+        "src": "assets/responsive/interlude-light-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/interlude-light-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/interlude-light.webp",
+        "width": 1916
+      }
+    ]
+  },
+  "assets/source-10.jpg": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "assets/responsive/source-10-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-10-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-10.jpg",
+        "width": 1600
+      }
+    ]
+  },
+  "assets/source-11.jpg": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "assets/responsive/source-11-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-11-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-11.jpg",
+        "width": 1600
+      }
+    ]
+  },
+  "assets/source-15.jpg": {
+    "width": 1920,
+    "height": 2560,
+    "variants": [
+      {
+        "src": "assets/responsive/source-15-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-15-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-15.jpg",
+        "width": 1920
+      }
+    ]
+  },
+  "assets/source-16.jpg": {
+    "width": 1651,
+    "height": 1080,
+    "variants": [
+      {
+        "src": "assets/responsive/source-16-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-16-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-16.jpg",
+        "width": 1651
+      }
+    ]
+  },
+  "assets/source-2.jpg": {
+    "width": 1410,
+    "height": 2159,
+    "variants": [
+      {
+        "src": "assets/responsive/source-2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-2.jpg",
+        "width": 1410
+      }
+    ]
+  },
+  "assets/source-3.jpg": {
+    "width": 800,
+    "height": 1030,
+    "variants": [
+      {
+        "src": "assets/responsive/source-3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/source-3.jpg",
+        "width": 800
+      }
+    ]
+  },
+  "assets/source-36.jpg": {
+    "width": 1024,
+    "height": 767,
+    "variants": [
+      {
+        "src": "assets/responsive/source-36-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-36-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-36.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-38.jpg": {
+    "width": 1024,
+    "height": 683,
+    "variants": [
+      {
+        "src": "assets/responsive/source-38-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-38-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-38.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-4.jpg": {
+    "width": 800,
+    "height": 1030,
+    "variants": [
+      {
+        "src": "assets/responsive/source-4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/source-4.jpg",
+        "width": 800
+      }
+    ]
+  },
+  "assets/source-40.jpg": {
+    "width": 1024,
+    "height": 683,
+    "variants": [
+      {
+        "src": "assets/responsive/source-40-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-40-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-40.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-42.jpg": {
+    "width": 683,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/source-42-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/source-42.jpg",
+        "width": 683
+      }
+    ]
+  },
+  "assets/source-43.jpg": {
+    "width": 683,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "assets/responsive/source-43-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/source-43.jpg",
+        "width": 683
+      }
+    ]
+  },
+  "assets/source-44.jpg": {
+    "width": 1024,
+    "height": 585,
+    "variants": [
+      {
+        "src": "assets/responsive/source-44-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-44-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-44.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-45.jpg": {
+    "width": 1024,
+    "height": 682,
+    "variants": [
+      {
+        "src": "assets/responsive/source-45-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-45-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-45.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-46.jpg": {
+    "width": 1024,
+    "height": 585,
+    "variants": [
+      {
+        "src": "assets/responsive/source-46-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-46-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-46.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-47.jpg": {
+    "width": 1024,
+    "height": 682,
+    "variants": [
+      {
+        "src": "assets/responsive/source-47-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-47-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-47.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-48.jpg": {
+    "width": 1024,
+    "height": 585,
+    "variants": [
+      {
+        "src": "assets/responsive/source-48-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-48-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-48.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-49.jpg": {
+    "width": 1024,
+    "height": 585,
+    "variants": [
+      {
+        "src": "assets/responsive/source-49-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-49-960.webp",
+        "width": 959
+      },
+      {
+        "src": "assets/source-49.jpg",
+        "width": 1024
+      }
+    ]
+  },
+  "assets/source-8.jpg": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "assets/responsive/source-8-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-8-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-8.jpg",
+        "width": 1600
+      }
+    ]
+  },
+  "assets/source-9.jpg": {
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      {
+        "src": "assets/responsive/source-9-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/responsive/source-9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/source-9.jpg",
+        "width": 1600
+      }
+    ]
+  }
+}
