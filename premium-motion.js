@@ -1,3 +1,28 @@
+// Also normalize arrows in older cached HTML, so mobile never substitutes emoji.
+(() => {
+  const angles={'↗':0,'↘':90,'→':45,'↑':-45,'↓':135,'↙':180,'↖':-90,'←':-135};
+  const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
+  const texts=[];
+  while(walker.nextNode()) {
+    const node=walker.currentNode;
+    if(/[↗↘→↑↓↙↖←]/u.test(node.data)&&!node.parentElement.closest('script,style,svg,textarea,select')) texts.push(node);
+  }
+  for(const node of texts) {
+    const fragment=document.createDocumentFragment();
+    const parts=node.data.split(/([↗↘→↑↓↙↖←]\uFE0F?)/u);
+    for(const part of parts) {
+      if(!Object.hasOwn(angles,part[0])) {fragment.append(document.createTextNode(part));continue;}
+      const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');
+      for(const [key,value] of Object.entries({class:'icon-arrow',viewBox:'0 0 24 24','aria-hidden':'true',focusable:'false',width:'1em',height:'1em',fill:'none',stroke:'currentColor','stroke-width':'1.4','stroke-linecap':'round','stroke-linejoin':'round',style:'display:inline-block;vertical-align:-.12em;flex:0 0 auto'})) svg.setAttribute(key,value);
+      const line=document.createElementNS('http://www.w3.org/2000/svg','path');
+      line.setAttribute('d','M5 19 19 5M5 5h14v14');
+      line.setAttribute('transform',`rotate(${angles[part[0]]} 12 12)`);
+      svg.append(line);fragment.append(svg);
+    }
+    node.replaceWith(fragment);
+  }
+})();
+
 // Shared motion language. Native scrolling; one entrance per element.
 (() => {
   const preference = matchMedia('(prefers-reduced-motion: reduce)');

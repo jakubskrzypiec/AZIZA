@@ -1,4 +1,23 @@
-# AZIZA — publikacja na GitHub Pages
+# AZIZA — publikacja
+
+## Produkcja na SEOHOST — 31 października 2026
+
+Strona produkcyjna działa bezpośrednio na SEOHOST pod **https://www.aziza-suwiczak.pl/**. Nie zmieniano DNS, delegacji domeny ani konfiguracji poczty. GitHub Pages pozostaje podglądem, bez pliku CNAME.
+
+- Katalog publiczny: `/domains/aziza-suwiczak.pl/public_html`.
+- Poprzedni WordPress zachowany w `/domains/aziza-suwiczak.pl/wordpress-before-20261031`, poza katalogiem publicznym. Baza danych nie została zmieniona ani usunięta.
+- Wykonana i potwierdzona w DirectAdmin kopia plików domen i baz: `/backups/backup-Oct-31-2026-1.tar.zst`.
+- Archiwum wdrożenia zachowane poza katalogiem publicznym: `/domains/aziza-suwiczak.pl/AZIZA-upload-20261031.zip`.
+- `scripts/package-seohost.mjs` tworzy osobny katalog wdrożeniowy z gotowych stron, zasobów i `.htaccess`, bez `.git`, źródeł oraz dokumentacji. Domyślnie wymaga nowego katalogu wyjściowego; opcjonalna ścieżka jest pierwszym argumentem.
+- `.htaccess` zawiera 126 rzeczywistych przekierowań HTTP 301, wymuszenie HTTPS i www, obsługę 404, kompresję oraz cache. Adresy podstron są bez `.html`.
+- Aktualizacje repo nie aktualizują automatycznie SEOHOST. Należy zbudować i sprawdzić stronę, utworzyć nową paczkę, wgrać poza `public_html`, rozpakować i dopiero przełączyć katalogi. Archiwum ZIP nie powinno pozostać w publicznym katalogu.
+- Powrót do poprzedniej wersji: zachować obecny `public_html` pod inną nazwą poza katalogiem publicznym, następnie przywrócić nazwę `public_html` katalogowi `wordpress-before-20261031`. Nie przywracać bazy ani poczty bez potrzeby.
+- TLS zweryfikowany, aktualny certyfikat ważny do 25 stycznia 2027. Panel zawiera historyczne nieudane automatyczne odnowienie z 27 października; warto obserwować kolejne odnowienie, nie wyłączano HTTPS.
+- FormSubmit 31 października odpowiada poprawnie na sprawdzenie dostępności i CORS. Rzeczywista dostawa oraz ewentualna aktywacja skrzynki wymagają oddzielnego potwierdzenia.
+- Uzgodniony test formularza 31 października nie potwierdził przyjęcia wiadomości. Nie uznawać formularza za przetestowany pod kątem dostawy; sprawdzić mail aktywacyjny u klientki i po aktywacji potwierdzić odbiór testu. Rozpoznawanie odpowiedzi aktywacyjnej działa również przy `success: false`.
+- Poprawka strzałek mobilnych: generator tworzy monochromatyczne SVG, a wspólny `premium-motion.js` normalizuje również znaki w starszych plikach HTML. Skrypt oraz poprawka formularza zostały zapisane bezpośrednio w panelu i ich treść porównano z repo. Paczka początkowego wdrożenia jest historyczną wersją sprzed tych poprawek; kolejne paczki budować z aktualnego repo. Cache skryptów wynosi godzinę, więc wcześniejszy podgląd może wymagać pełnego odświeżenia.
+
+## Podgląd GitHub Pages i alternatywna konfiguracja
 
 Docelowy adres: **https://www.aziza-suwiczak.pl/**. Aktualny podgląd: https://jakubskrzypiec.github.io/AZIZA/.
 

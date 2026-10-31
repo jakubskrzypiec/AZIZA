@@ -1,6 +1,6 @@
 # AZIZA — strona pracowni architektonicznej
 
-Statyczna witryna publikowana na GitHub Pages. Docelowa domena: https://www.aziza-suwiczak.pl/. Podgląd: https://jakubskrzypiec.github.io/AZIZA/.
+Statyczna witryna na hostingu SEOHOST: https://www.aziza-suwiczak.pl/. Podgląd GitHub Pages: https://jakubskrzypiec.github.io/AZIZA/. Instrukcje wdrożenia i przywrócenia poprzedniej strony: `docs/PUBLIKACJA.md`.
 
 ## Praca nad stroną
 

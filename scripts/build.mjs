@@ -61,6 +61,16 @@ function replaceLinks(html, route) {
   });
 }
 
+function arrowIcons(html) {
+  const angles={'↗':0,'↘':90,'→':45,'↑':-45,'↓':135,'↙':180,'↖':-90,'←':-135};
+  // Only visible text; preserve scripts, styles, labels and metadata verbatim.
+  return html.split(/(<script\b[\s\S]*?<\/script>|<style\b[\s\S]*?<\/style>|<[^>]+>)/gi)
+    .map(part=>part.startsWith('<')?part:part.replace(/[↗↘→↑↓↙↖←]\uFE0F?/gu,arrow=>{
+      const angle=angles[arrow[0]];
+      return `<svg class="icon-arrow" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 19 19 5M5 5h14v14" transform="rotate(${angle} 12 12)"/></svg>`;
+    })).join('');
+}
+
 function images(html) {
   return html.replace(/<img\b[^>]*>/g,tag=>{
     const src=tag.match(/\bsrc="([^"]+)"/)?.[1];
@@ -96,7 +106,7 @@ for(const file of Object.keys(routes)) {
   html=html.replace(/<script type="application\/ld\+json">.*?<\/script>/gs,'');
   html=html.replace(/<link rel="canonical"[^>]*>/g,'');
   html=html.replace(/<meta name="robots"[^>]*>/g,'');
-  html=replaceLinks(html,route);
+  html=arrowIcons(replaceLinks(html,route));
   html=images(html);
   html=form(html);
   // Old portfolio query URLs still point at the respective gallery.

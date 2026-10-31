@@ -31,11 +31,15 @@
         signal: controller.signal
       });
       const data = await response.json();
-      if (!response.ok || ![true, 'true'].includes(data.success)) throw new Error('Submission rejected');
-      if (/activat|confirm.*form/i.test(String(data.message || ''))) {
+      if (/activat|confirm.*form|verify.*email/i.test(String(data.message || ''))) {
         status.textContent = 'Formularz oczekuje na aktywację. Napisz bezpośrednio na izabela.suwiczak@aziza-suwiczak.pl — treść pozostaje w formularzu.';
         status.dataset.state = 'error';
         return;
+      }
+      if (!response.ok || ![true, 'true'].includes(data.success)) {
+        // Provider diagnostics deliberately exclude the submitted personal data.
+        console.warn('AZIZA: formularz odrzucony przez usługę', response.status, String(data.message || 'Brak szczegółów'));
+        throw new Error('Submission rejected');
       }
       form.reset();
       status.textContent = 'Dziękuję! Wiadomość została przekazana do pracowni. Odpowiem na podany adres e-mail.';
